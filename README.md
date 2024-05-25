@@ -28,11 +28,11 @@
 - ⚡ Fun fact **I think Im Funny**
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=github&show_icons=true&locale=en&layout=compact" alt="github" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LoneStamp&show_icons=true&locale=en&layout=compact" alt="github" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=github&show_icons=true&locale=en" alt="github" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LoneStamp&show_icons=true&locale=en" alt="github" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=github&" alt="github" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LoneStamp&" alt="github" /></p>
 
 
 
