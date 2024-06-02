@@ -28,6 +28,8 @@
 
 - ⚡ Fun fact **I think Im Funny**
 
+
+## Musics
 |         |         |         |
 | ------- | ------- | ------- |
 | <img src="https://spotify-github-profile.vercel.app/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=0ef1be)](https://github.com/kittinan/spotify-github-profile)"> | <img src="https://spotify-github-profile.vercel.app/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=f7090f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"> | <img src="https://spotify-github-profile.vercel.app/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=f3e20c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"> |
