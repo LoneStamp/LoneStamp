@@ -29,6 +29,13 @@
 - ⚡ Fun fact **I think Im Funny**
 
 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31r4zns2ctyqdyzmg4m6enjsyuva&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=141011&interchange=false&bar_color=e41b39)]]
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31r4zns2ctyqdyzmg4m6enjsyuva&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=20df9c&interchange=false&bar_color=b04f51)]]
+
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31r4zns2ctyqdyzmg4m6enjsyuva&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=14eb14&interchange=false&bar_color=ffff00&bar_color_cover=false)]]
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LoneStamp&show_icons=true&locale=en&layout=compact" alt="github" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LoneStamp&show_icons=true&locale=en" alt="github" /></p>
