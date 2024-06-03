@@ -399,29 +399,28 @@
 
 | Social Platform    | Link                                                             |
 |--------------------|------------------------------------------------------------------|
-| CodePen            | [![codepen](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg | width=40 height=40)](https://codepen.io/codepen) |
-| Dev.to             | [![dev@](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg | width=40 height=40)](https://dev.to/dev@) |
-| Twitter            | [![twitter](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg | width=40 height=40)](https://twitter.com/twitter) |
-| LinkedIn           | [![linkedin](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg | width=40 height=40)](https://linkedin.com/in/linkiden) |
-| Stack Overflow     | [![stackoverflow](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg | width=40 height=40)](https://stackoverflow.com/users/stackoverflow) |
-| CodeSandbox        | [![codesandbox](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg | width=40 height=40)](https://codesandbox.com/codesandbox) |
-| Kaggle             | [![kaggle](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg | width=40 height=40)](https://kaggle.com/kaggle) |
-| Facebook           | [![facebook](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg | width=40 height=40)](https://fb.com/facebook) |
-| Instagram          | [![instagram](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg | width=40 height=40)](https://instagram.com/instagram) |
-| Dribbble           | [![dribbble](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg | width=40 height=40)](https://dribbble.com/dribble) |
-| Behance            | [![behance](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg | width=40 height=40)](https://www.behance.net/behance) |
-| Hashnode           | [![hashnode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg | width=40 height=40)](https://hashnode.com/hasnode) |
-| Medium             | [![medium](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg | width=40 height=40)](https://medium.com/@meduim) |
-| CodeChef           | [![codechef](https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg | width=40 height=40)](https://www.codechef.com/users/codechef) |
-| HackerRank         | [![hackerrank](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg | width=40 height=40)](https://www.hackerrank.com/hackerrank) |
-| Codeforces         | [![codeforces](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg | width=40 height=40)](https://codeforces.com/profile/codeforces) |
-| LeetCode           | [![leetcode](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg | width=40 height=40)](https://www.leetcode.com/leetcode) |
-| HackerEarth        | [![hackerearth](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg | width=40 height=40)](https://www.hackerearth.com/hackerearcth) |
-| GeeksforGeeks      | [![geeks](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg | width=40 height=40)](https://auth.geeksforgeeks.org/user/geeks) |
-| TopCoder           | [![topcoder](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg | width=40 height=40)](https://www.topcoder.com/members/topcoder) |
-| Discord            | [![discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg | width=40 height=40)](https://discord.gg/discord) |
-| RSS                | [![rss](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg | width=40 height=40)](https://rss.com/rss) |
-
+| CodePen            | <a href="https://codepen.io/codepen"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" width="40" height="40"></a> |
+| Dev.to             | <a href="https://dev.to/dev@"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="40" height="40"></a> |
+| Twitter            | <a href="https://twitter.com/twitter"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" width="40" height="40"></a> |
+| LinkedIn           | <a href="https://linkedin.com/in/linkiden"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40"></a> |
+| Stack Overflow     | <a href="https://stackoverflow.com/users/stackoverflow"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" width="40" height="40"></a> |
+| CodeSandbox        | <a href="https://codesandbox.com/codesandbox"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" width="40" height="40"></a> |
+| Kaggle             | <a href="https://kaggle.com/kaggle"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="40"></a> |
+| Facebook           | <a href="https://fb.com/facebook"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="40" height="40"></a> |
+| Instagram          | <a href="https://instagram.com/instagram"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" height="40"></a> |
+| Dribbble           | <a href="https://dribbble.com/dribble"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" width="40" height="40"></a> |
+| Behance            | <a href="https://www.behance.net/behance"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" width="40" height="40"></a> |
+| Hashnode           | <a href="https://hashnode.com/hasnode"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" width="40" height="40"></a> |
+| Medium             | <a href="https://medium.com/@meduim"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" width="40" height="40"></a> |
+| CodeChef           | <a href="https://www.codechef.com/users/codechef"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" width="40" height="40"></a> |
+| HackerRank         | <a href="https://www.hackerrank.com/hackerrank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="40" height="40"></a> |
+| Codeforces         | <a href="https://codeforces.com/profile/codeforces"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="40" height="40"></a> |
+| LeetCode           | <a href="https://www.leetcode.com/leetcode"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="40" height="40"></a> |
+| HackerEarth        | <a href="https://www.hackerearth.com/hackerearcth"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" width="40" height="40"></a> |
+| GeeksforGeeks      | <a href="https://auth.geeksforgeeks.org/user/geeks"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" width="40" height="40"></a> |
+| TopCoder           | <a href="https://www.topcoder.com/members/topcoder"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" width="40" height="40"></a> |
+| Discord            | <a href="https://discord.gg/discord"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="40"></a> |
+| RSS                | <a href="https://rss.com/rss"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" width="40" height="40"></a> |
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{LoneStamp}/count.svg)
