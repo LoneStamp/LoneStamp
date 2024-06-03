@@ -38,25 +38,19 @@
 
 #### Personal Photo's
 
-# Gallery
-
 |                |               |               |
 |----------------|---------------|---------------|
-|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|
-|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|
-|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|
-|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|
-|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|
-|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|
-|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|
-|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|
-|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|
-|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|<img src="" width="500px" height="600px" alt=""/>|
+|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|
+|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|
+|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|
+|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|
+|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|
+|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|
 
 
 #### Projects Collection's
 
-| Image 1 | Image 2 | Image 3 | Image 4 |
+|         |         |         |         |
 |---------|---------|---------|---------|
 | ![Image 1](link_to_image_1) | ![Image 2](link_to_image_2) | ![Image 3](link_to_image_3) | ![Image 4](link_to_image_4) |
 | Description of Image 1 | Description of Image 2 | Description of Image 3 | Description of Image 4 |
@@ -71,11 +65,10 @@
 | Description of Image 13 | Description of Image 14 | Description of Image 15 | Description of Image 16 |
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LoneStamp&show_icons=true&locale=en&layout=compact" alt="github" /></p>
+# GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LoneStamp&show_icons=true&locale=en" alt="github" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LoneStamp&" alt="github" /></p>
+| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=LoneStamp&show_icons=true&locale=en&layout=compact" alt="github" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LoneStamp&show_icons=true&locale=en" alt="github" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LoneStamp&" alt="github" /></p> |
+|---------------------------------|---------------------------------|---------------------------------|
 
 
 
