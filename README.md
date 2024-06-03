@@ -97,11 +97,62 @@
 | 👁️ **Eye Color**    | Your Eye Color                           |
 | 👓 **Vision**       | Vision (e.g., 20/20, near-sighted)       |
 | 💉 **Blood Type**   | Your Blood Type (e.g., O+, A-)           |
-| 👗 **Style**        | Your Clothing Style (e.g., Casual, Formal)|
-| 💼 **Occupation**   | Your Occupation (e.g., Software Engineer)|
 | 🌐 **Languages**    | Languages Spoken (e.g., English, Spanish)|
-| 🎨 **Hobbies**      | Your Hobbies (e.g., Painting, Reading)   |
 | 🌟 **Other**        | Any other relevant information           |
+
+###### Hobbies
+
+| 🎨 **Hobby**               | 🎨 **Details**                                                   |
+|----------------------------|-------------------------------------------------------------------|
+| ✏️ **Drawing**             | Portraits, Digital Arts, Sketch                                  |
+| 🥋 **Martial Arts Style**  | Brazilian Jiu-Jitsu (BJJ)                                         |
+| 📚 **Reading Books**       | Martial Arts, Military, Intelligence, History, Mythical Creatures |
+| 🎵 **Music**               | Various genres you enjoy listening to                            |
+| 🎬 **Movies**              | Genres or specific movies you enjoy                              |
+
+###### Fashion
+
+###### Styles
+| 👗 **Category**           | 👗 **Details**                                         |
+|--------------------------|--------------------------------------------------------|
+| 💇 **Hair**               | Hairstyle, Hair Color                                  |
+| 🎩 **Hat**                | Types of Hats (if applicable)                          |
+| 👕 **Shirts**             | Types of Shirts (e.g., T-shirts, Polo shirts)          |
+| 👖 **Pants**              | Types of Pants (e.g., Jeans, Trousers)                 |
+| 🧥 **Jackets/Coats**      | Types of Jackets/Coats (e.g., Leather Jacket, Parka)   |
+| 👟 **Shoes**              | Types of Shoes (e.g., Sneakers, Boots)                 |
+| 👓 **Glasses/Sunglasses** | Types of Glasses/Sunglasses (if applicable)            |
+| 💍 **Accessories**        | Necklaces, Bracelets, Watches, Rings                   |
+
+
+##### Education
+
+| 📚 **Education Level** | 📚 **Details**                             |
+|------------------------|-------------------------------------------|
+| 🏫 **Primary**         | Name of Primary School, Location, Years Attended |
+| 🏢 **Secondary**       | Name of Secondary School, Location, Years Attended |
+| 🎓 **Tertiary**        | Name of University/College, Location, Degree, Years Attended |
+
+##### Occupation
+
+###### Current Occupation
+
+| 💼 **Current Occupation** | 💼 **Details**                                   |
+|---------------------------|--------------------------------------------------|
+| 🏢 **Position**           | Your Current Job Title                           |
+| 🏢 **Company**            | Your Current Company                             |
+| 🌍 **Location**           | Location of Your Current Job                     |
+| 📅 **Years Active**       | Years You've Been in This Position               |
+| 📝 **Responsibilities**   | Key Responsibilities                             |
+
+###### Job Experience
+
+| 🏢 **Previous Position**  | 🏢 **Company**       | 🌍 **Location**   | 📅 **Years**    | 📝 **Responsibilities**           |
+|--------------------------|----------------------|-------------------|----------------|---------------------------------------|
+| Previous Job Title 1     | Company Name 1       | Location 1        | Years 1        | Responsibilities 1                    |
+| Previous Job Title 2     | Company Name 2       | Location 2        | Years 2        | Responsibilities 2                    |
+| Previous Job Title 3     | Company Name 3       | Location 3        | Years 3        | Responsibilities 3                    |
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{LoneStamp}/count.svg)
 <!---
