@@ -37,8 +37,29 @@
 ## Gallery
 
 #### Personal Photo's
+
+# Gallery
+
+| ![Image 1](URL_TO_YOUR_IMAGE_1) | ![Image 2](URL_TO_YOUR_IMAGE_2) | ![Image 3](URL_TO_YOUR_IMAGE_3) |
+|---------------------------------|---------------------------------|---------------------------------|
+| ![Image 4](URL_TO_YOUR_IMAGE_4) | ![Image 5](URL_TO_YOUR_IMAGE_5) | ![Image 6](URL_TO_YOUR_IMAGE_6) |
+| ![Image 7](URL_TO_YOUR_IMAGE_7) | ![Image 8](URL_TO_YOUR_IMAGE_8) | ![Image 9](URL_TO_YOUR_IMAGE_9) |
+| ![Image 10](URL_TO_YOUR_IMAGE_10) | ![Image 11](URL_TO_YOUR_IMAGE_11) | ![Image 12](URL_TO_YOUR_IMAGE_12) |
+
+<style>
+    table {
+        width: 100%;
+    }
+    td {
+        width: 33.33%;
+    }
+    img {
+        width: 600px;
+        height: 500px;
+    }
+</style>
+
 #### Projects Collection's
-# My Gallery
 
 | Image 1 | Image 2 | Image 3 | Image 4 |
 |---------|---------|---------|---------|
