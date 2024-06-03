@@ -40,24 +40,14 @@
 
 # Gallery
 
-| ![Image 1](URL_TO_YOUR_IMAGE_1) | ![Image 2](URL_TO_YOUR_IMAGE_2) | ![Image 3](URL_TO_YOUR_IMAGE_3) |
-|---------------------------------|---------------------------------|---------------------------------|
-| ![Image 4](URL_TO_YOUR_IMAGE_4) | ![Image 5](URL_TO_YOUR_IMAGE_5) | ![Image 6](URL_TO_YOUR_IMAGE_6) |
-| ![Image 7](URL_TO_YOUR_IMAGE_7) | ![Image 8](URL_TO_YOUR_IMAGE_8) | ![Image 9](URL_TO_YOUR_IMAGE_9) |
-| ![Image 10](URL_TO_YOUR_IMAGE_10) | ![Image 11](URL_TO_YOUR_IMAGE_11) | ![Image 12](URL_TO_YOUR_IMAGE_12) |
+# Gallery
 
-<style>
-    table {
-        width: 100%;
-    }
-    td {
-        width: 33.33%;
-    }
-    img {
-        width: 600px;
-        height: 500px;
-    }
-</style>
+| ![Image 1](URL_TO_YOUR_IMAGE_1) <br> <img src="URL_TO_YOUR_IMAGE_1" alt="Image 1" width="600" height="500"> | ![Image 2](URL_TO_YOUR_IMAGE_2) <br> <img src="URL_TO_YOUR_IMAGE_2" alt="Image 2" width="600" height="500"> | ![Image 3](URL_TO_YOUR_IMAGE_3) <br> <img src="URL_TO_YOUR_IMAGE_3" alt="Image 3" width="600" height="500"> | ![Image 4](URL_TO_YOUR_IMAGE_4) <br> <img src="URL_TO_YOUR_IMAGE_4" alt="Image 4" width="600" height="500"> |
+|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| ![Image 5](URL_TO_YOUR_IMAGE_5) <br> <img src="URL_TO_YOUR_IMAGE_5" alt="Image 5" width="600" height="500"> | ![Image 6](URL_TO_YOUR_IMAGE_6) <br> <img src="URL_TO_YOUR_IMAGE_6" alt="Image 6" width="600" height="500"> | ![Image 7](URL_TO_YOUR_IMAGE_7) <br> <img src="URL_TO_YOUR_IMAGE_7" alt="Image 7" width="600" height="500"> | ![Image 8](URL_TO_YOUR_IMAGE_8) <br> <img src="URL_TO_YOUR_IMAGE_8" alt="Image 8" width="600" height="500"> |
+|---------------------------------|---------------------------------|---------------------------------|---------------------------------|
+| ![Image 9](URL_TO_YOUR_IMAGE_9) <br> <img src="URL_TO_YOUR_IMAGE_9" alt="Image 9" width="600" height="500"> | ![Image 10](URL_TO_YOUR_IMAGE_10) <br> <img src="URL_TO_YOUR_IMAGE_10" alt="Image 10" width="600" height="500"> | ![Image 11](URL_TO_YOUR_IMAGE_11) <br> <img src="URL_TO_YOUR_IMAGE_11" alt="Image 11" width="600" height="500"> | ![Image 12](URL_TO_YOUR_IMAGE_12) <br> <img src="URL_TO_YOUR_IMAGE_12" alt="Image 12" width="600" height="500"> |
+
 
 #### Projects Collection's
 
