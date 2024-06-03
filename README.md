@@ -178,36 +178,38 @@
 | [Scala](https://www.scala-lang.org) <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> | Intermediate    |
 | [Swift](https://developer.apple.com/swift/) <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> | Intermediate    |
 | [TypeScript](https://www.typescriptlang.org/) <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> | Advanced        |
-| [VuePress](https://vuepress.vuejs.org/) <br> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> | Beginner     |
+| [VuePress](https://vuepress.vuejs.org/) <br> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> | Beginner   |
 
-#### Frontend Technologies
+# Frontend Technologies
+
 | Framework/Language | Logo                                                                                             | Level |
 |--------------------|--------------------------------------------------------------------------------------------------|-------|
-| Angular            | [![angular](https://angular.io/assets/images/logos/angular/angular.svg)](https://angular.io)     | 20%   |
-| AngularJS          | [![angularjs](https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg)](https://angular.io) | 30%   |
-| Babel              | [![babel](https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg)](https://babeljs.io/)       | 40%   |
-| Backbone.js        | [![backbonejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg)](https://backbonejs.org) | 50%   |
-| Bootstrap          | [![bootstrap](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg)](https://getbootstrap.com) | 60%   |
-| Bulma              | [![bulma](https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg)](https://bulma.io/) | 70%   |
-| CSS3               | [![css3](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg)](https://www.w3schools.com/css/) | 80%   |
-| Ember.js           | [![ember](https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg)](https://emberjs.com/) | 90%   |
-| GTK                | [![gtk](https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg)](https://www.gtk.org/) | 100%  |
-| Gulp               | [![gulp](https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg)](https://gulpjs.com) | 20%   |
-| HTML5              | [![html5](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg)](https://www.w3.org/html/) | 30%   |
-| Kafka              | [![kafka](https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg)](https://kafka.apache.org/) | 40%   |
-| Materialize        | [![materialize](https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg)](https://materializecss.com/) | 50%   |
-| Pug                | [![pug](https://cdn.worldvectorlogo.com/logos/pug.svg)](https://pugjs.org)                       | 60%   |
-| Qt                 | [![qt](https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg)](https://www.qt.io/) | 70%   |
-| React              | [![react](https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg)](https://reactjs.org/) | 80%   |
-| Redux              | [![redux](https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg)](https://redux.js.org) | 90%   |
-| Sass               | [![sass](https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg)](https://sass-lang.com) | 100%  |
-| Svelte             | [![svelte](https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg)](https://svelte.dev) | 20%   |
-| Tailwind CSS       | [![tailwind](https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg)](https://tailwindcss.com/) | 30%   |
-| Vue.js             | [![vuejs](https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg)](https://vuejs.org/) | 40%   |
-| VuePress           | [![vuepress](https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg)](https://vuepress.vuejs.org/) | 50%   |
-| Vuetify            | [![vuetify](https://bestofjs.org/logos/vuetify.svg)](https://vuetifyjs.com/en/)                    | 60%   |
-| Webpack            | [![webpack](https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg)](https://webpack.js.org) | 70%   |
-| wxWidgets          | [![wx_widgets](https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg)](https://www.wxwidgets.org/) | 80%   |
+| Angular            | <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"> | 20%   |
+| AngularJS          | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"> | 30%   |
+| Babel              | <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"> | 40%   |
+| Backbone.js        | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/backbonejs/backbonejs-original-wordmark.svg" alt="backbonejs" width="40" height="40"> | 50%   |
+| Bootstrap          | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"> | 60%   |
+| Bulma              | <img src="https://raw.githubusercontent.com/gilbarbara/logos/804dc257b59e144eaca5bc6ffd16949752c6f789/logos/bulma.svg" alt="bulma" width="40" height="40"> | 70%   |
+| CSS3               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"> | 80%   |
+| Ember.js           | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ember/ember-original-wordmark.svg" alt="ember" width="40" height="40"> | 90%   |
+| GTK                | <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"> | 100%  |
+| Gulp               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"> | 20%   |
+| HTML5              | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"> | 30%   |
+| Kafka              | <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"> | 40%   |
+| Materialize        | <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"> | 50%   |
+| Pug                | <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"> | 60%   |
+| Qt                 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"> | 70%   |
+| React              | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"> | 80%   |
+| Redux              | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"> | 90%   |
+| Sass               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"> | 100%  |
+| Svelte             | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"> | 20%   |
+| Tailwind CSS       | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"> | 30%   |
+| Vue.js             | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"> | 40%   |
+| VuePress           | <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"> | 50%   |
+| Vuetify            | <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"> | 60%   |
+| Webpack            | <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"> | 70%   |
+| wxWidgets          | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"> | 80%   |
+
 
 # Backend Technologies
 
@@ -392,8 +394,6 @@
 | Git        | <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | 30%   |
 | Linux      | <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> | 40%   |
 
-
-
 #### Contact
 ###### Connect with Me
 
@@ -420,7 +420,8 @@
 | GeeksforGeeks      | [![geeks](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg)](https://auth.geeksforgeeks.org/user/geeks) |
 | TopCoder           | [![topcoder](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg)](https://www.topcoder.com/members/topcoder) |
 | Discord            | [![discord](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg)](https://discord.gg/discord) |
-| RSS                | [![rss](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons
+| RSS                | [![rss](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg)](https://rss.com/rss) |
+
 
 ![Visitor Count](https://profile-counter.glitch.me/{LoneStamp}/count.svg)
 <!---
