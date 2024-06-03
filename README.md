@@ -70,7 +70,38 @@
 | <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoneStamp&langs_count=8" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LoneStamp&show_icons=true&locale=en" alt="github" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LoneStamp&" alt="github" /></p> |
 |---------------------------------|---------------------------------|---------------------------------|
 
+[![wakatime](https://wakatime.com/badge/user/c93e8988-ed05-467c-a61f-c4338ad15538.svg)](https://wakatime.com/@c93e8988-ed05-467c-a61f-c4338ad15538)
 
+## Biodata
+
+### Primary
+
+| 🌟 **Attribute**    | 🌟 **Details**                           |
+|---------------------|------------------------------------------|
+| 👤 **Name**         | Your Name                                |
+| 🕵️‍♂️ **Codename**   | Your Codename                            |
+| 🎂 **Birthday**     | Your Birthday (e.g., January 1, 2000)    |
+| 📅 **Age**          | Your Age                                 |
+| 🏙️ **Birthplace**   | Your Birthplace                          |
+| 🏠 **Address**      | Your Address                             |
+| ♑ **Zodiac Sign**   | Your Zodiac Sign                         |
+| 💍 **Status**       | Your Status (e.g., Single/Married)       |
+| ⚖️ **Weight**       | Your Weight (e.g., 70 kg)                |
+| 📏 **Height**       | Your Height (e.g., 175 cm)               |
+| 🌍 **Ethnicity**    | Your Ethnicity                           |
+| 🏽 **Skin Color**   | Your Skin Color                          |
+| 💇 **Hair Color**   | Your Hair Color                          |
+| 🦱 **Hair Type**    | Your Hair Type                           |
+| 👃 **Nose Type**    | Your Nose Type                           |
+| 👄 **Lips Type**    | Your Lips Type                           |
+| 👁️ **Eye Color**    | Your Eye Color                           |
+| 👓 **Vision**       | Vision (e.g., 20/20, near-sighted)       |
+| 💉 **Blood Type**   | Your Blood Type (e.g., O+, A-)           |
+| 👗 **Style**        | Your Clothing Style (e.g., Casual, Formal)|
+| 💼 **Occupation**   | Your Occupation (e.g., Software Engineer)|
+| 🌐 **Languages**    | Languages Spoken (e.g., English, Spanish)|
+| 🎨 **Hobbies**      | Your Hobbies (e.g., Painting, Reading)   |
+| 🌟 **Other**        | Any other relevant information           |
 
 ![Visitor Count](https://profile-counter.glitch.me/{LoneStamp}/count.svg)
 <!---
