@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoneStamp" alt="github" /></a> </p>
 
 
-- 🔭 ꧁༺ 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 ༻꧂ [VVDO](https://www.facebook.com)
+- 🔭 ꧁༺ 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 ༻꧂ [BlackVideo](https://www.facebook.com)
 
 - 🌱  ꧁༺ 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 ༻꧂ **courses**
 
@@ -29,14 +29,14 @@
 - ⚡ ꧁༺ 𝓕𝓾𝓷 𝓯𝓪𝓬𝓽 ༻꧂ **I think Im Funny**
 
 
-## ·.★·.·´¯`·.·★ 🅼🆄🆂🅸🅲 ★·.·´¯`·.·★.·
+## 🅼🆄🆂🅸🅲
 |         |         |         |
 | ------- | ------- | ------- |
 | <img src="https://spotify-github-profile.vercel.app/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=0ef1be)](https://github.com/kittinan/spotify-github-profile)"> | <img src="https://spotify-github-profile.vercel.app/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=f7090f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"> | <img src="https://spotify-github-profile.vercel.app/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=f3e20c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"> |
 
-## ·.★·.·´¯`·.·★ 🅶🅰🅻🅻🅴🆁🆈 ★·.·´¯`·.·★.·
+## 🅶🅰🅻🅻🅴🆁🅸🅴🆂
 
-#### 🅿🅴🆁🆂🅾🅽🅰🅻 🅿🅷🅾🆃🅾'🆂
+#### 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐏𝐡𝐨𝐭𝐨'𝐬
 
 |                |               |               |
 |----------------|---------------|---------------|
@@ -48,7 +48,7 @@
 |<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|
 
 
-#### ·.★·.·´¯`·.·★ 🅿🆁🅾🅹🅴🅲🆃🆂 🅲🅾🅻🅻🅴🅲🆃🅸🅾🅽'🆂 ★·.·´¯`·.·★.·
+#### 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐨𝐧𝐬
 
 |         |         |         |         |
 |---------|---------|---------|---------|
@@ -65,32 +65,32 @@
 | Description of Image 13 | Description of Image 14 | Description of Image 15 | Description of Image 16 |
 
 
-## GitHub Stats
+## 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
 
 | <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoneStamp&langs_count=8" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LoneStamp&show_icons=true&locale=en" alt="github" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LoneStamp&" alt="github" /></p> |
 |---------------------------------|---------------------------------|---------------------------------|
 
 [![LoneStamp's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@LoneStamp99)](https://github.com/LoneStamp/github-readme-stats)
 
-## Biodata
+## 🅱🅸🅾🅳🅰🆃🅰
 
-### Primary
+### 𝐏𝐫𝐢𝐦𝐚𝐫𝐲
 
 | 🌟 **Attribute**    | 🌟 **Details**                           |
 |---------------------|------------------------------------------|
-| 👤 **Name**         | Your Name                                |
-| 🕵️‍♂️ **Codename**   | Your Codename                            |
+| 👤 **Name**         | Unkown                                |
+| 🕵️‍♂️ **Codename**   | Jednaz Lonestamp                            |
 | 🎂 **Birthday**     | Your Birthday (e.g., January 1, 2000)    |
-| 📅 **Age**          | Your Age                                 |
-| 🏙️ **Birthplace**   | Your Birthplace                          |
-| 🏠 **Address**      | Your Address                             |
-| ♑ **Zodiac Sign**   | Your Zodiac Sign                         |
-| 💍 **Status**       | Your Status (e.g., Single/Married)       |
-| ⚖️ **Weight**       | Your Weight (e.g., 70 kg)                |
-| 📏 **Height**       | Your Height (e.g., 175 cm)               |
-| 🌍 **Ethnicity**    | Your Ethnicity                           |
-| 🏽 **Skin Color**   | Your Skin Color                          |
-| 💇 **Hair Color**   | Your Hair Color                          |
+| 📅 **Age**          | 21                                 |
+| 🏙️ **Birthplace**   | Unknown                          |
+| 🏠 **Address**      | Uknown                             |
+| ♑ **Zodiac Sign**   | Gemeni                         |
+| 💍 **Status**       | Single       |
+| ⚖️ **Weight**       | Uknown                |
+| 📏 **Height**       | Uknown               |
+| 🌍 **Ethnicity**    | Asian                          |
+| 🏽 **Skin Color**   | Fair                         |
+| 💇 **Hair Color**   | Black                         |
 | 🦱 **Hair Type**    | Your Hair Type                           |
 | 👃 **Nose Type**    | Your Nose Type                           |
 | 👄 **Lips Type**    | Your Lips Type                           |
@@ -99,7 +99,9 @@
 | 💉 **Blood Type**   | Your Blood Type (e.g., O+, A-)           |
 | 🌐 **Languages**    | Languages Spoken (e.g., English, Spanish)|
 
-###### Hobbies
+### 𝐒𝐞𝐜𝐨𝐧𝐝𝐚𝐫𝐲
+
+###### 🄷🄾🄱🄱🄸🄴🅂
 
 | 🎨 **Hobby**               | 🎨 **Details**                                                   |
 |----------------------------|-------------------------------------------------------------------|
@@ -109,7 +111,7 @@
 | 🎵 **Music**               | Various genres you enjoy listening to                            |
 | 🎬 **Movies**              | Genres or specific movies you enjoy                              |
 
-###### Fashion
+###### 🄵🄰🅂🄷🄸🄾🄽
 
 ###### Styles
 | 👗 **Category**           | 👗 **Details**                                         |
@@ -124,7 +126,7 @@
 | 💍 **Accessories**        | Necklaces, Bracelets, Watches, Rings                   |
 
 
-##### Education
+##### 🄴🄳🅄🄲🄰🅃🄸🄾🄽
 
 | 📚 **Education Level** | 📚 **Details**                             |
 |------------------------|-------------------------------------------|
@@ -132,9 +134,9 @@
 | 🏢 **Secondary**       | Name of Secondary School, Location, Years Attended |
 | 🎓 **Tertiary**        | Name of University/College, Location, Degree, Years Attended |
 
-##### Occupation
+##### 🄾🄲🄲🅄🄿🄰🅃🄸🄾🄽
 
-###### Current Occupation
+###### ℂ𝕦𝕣𝕣𝕖𝕟𝕥 𝕆𝕔𝕔𝕦𝕡𝕒𝕥𝕚𝕠𝕟
 
 | 💼 **Current Occupation** | 💼 **Details**                                   |
 |---------------------------|--------------------------------------------------|
@@ -144,7 +146,7 @@
 | 📅 **Years Active**       | Years You've Been in This Position               |
 | 📝 **Responsibilities**   | Key Responsibilities                             |
 
-###### Job Experience
+###### 𝕁𝕠𝕓 𝔼𝕩𝕡𝕖𝕣𝕚𝕖𝕟𝕔𝕖
 
 | 🏢 **Previous Position**  | 🏢 **Company**       | 🌍 **Location**   | 📅 **Years**    | 📝 **Responsibilities**           |
 |--------------------------|----------------------|-------------------|----------------|---------------------------------------|
@@ -152,7 +154,7 @@
 | Previous Job Title 2     | Company Name 2       | Location 2        | Years 2        | Responsibilities 2                    |
 | Previous Job Title 3     | Company Name 3       | Location 3        | Years 3        | Responsibilities 3                    |
 
-#### Programming Language Skills
+#### 🅿🆁🅾🅶🆁🅰🅼🅼🅸🅽🅶 🅻🅰🅽🅶🆄🅰🅶🅴 🆂🅺🅸🅻🅻🆂
 
 | 👨‍💻 **Programming Language** | 💡 **Level**    |
 |-------------------------------|-----------------|
@@ -180,7 +182,7 @@
 | [TypeScript](https://www.typescriptlang.org/) <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> | Advanced        |
 | [VuePress](https://vuepress.vuejs.org/) <br> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> | Beginner   |
 
-# Frontend Technologies
+# 🅵🆁🅾🅽🆃🅴🅽🅳 🆃🅴🅲🅷🅽🅾🅻🅾🅶🅸🅴🆂
 
 | Framework/Language | Logo                                                                                             | Level |
 |--------------------|--------------------------------------------------------------------------------------------------|-------|
@@ -211,7 +213,7 @@
 | wxWidgets          | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"> | 80%   |
 
 
-# Backend Technologies
+# 🅱🅰🅲🅺🅴🅽🅳 🆃🅴🅲🅷🅽🅾🅻🅾🅶🅸🅴🆂
 
 | Framework/Language | Logo                                                                                             | Level |
 |--------------------|--------------------------------------------------------------------------------------------------|-------|
@@ -228,7 +230,7 @@
 | Spring             | <p align="left"> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> | 30%   |
 | VuePress           | <p align="left"> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> | 40%   |
 
-#### Mobile Development Technologies
+#### 🅼🅾🅱🅸🅻🅴 🅳🅴🆅🅴🅻🅾🅿🅼🅴🅽🆃 🆃🅴🅲🅷🅽🅾🅻🅾🅶🅸🅴🆂
 
 | Framework/Language | Logo                                                                                             | Level |
 |--------------------|--------------------------------------------------------------------------------------------------|-------|
@@ -243,7 +245,7 @@
 | VuePress           | <p align="left"> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> | 100%  |
 | Xamarin            | <p align="left"> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40" height="40"/> </a> | 20%   |
 
-#### AI & ML Technologies
+#### 🅰🅸 & 🅼🅻 🆃🅴🅲🅷🅽🅾🅻🅾🅶🅸🅴🆂
 
 | Framework/Language | Logo                                                                                             | Level |
 |--------------------|--------------------------------------------------------------------------------------------------|-------|
@@ -255,7 +257,7 @@
 | TensorFlow         | <p align="left"> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> | 70%   |
 | VuePress           | <p align="left"> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> | 80%   |
 
-#### Database Technologies
+#### 🅳🅰🆃🅰🅱🅰🆂🅴 🆃🅴🅲🅷🅽🅾🅻🅾🅶🅸🅴🆂
 
 | Database Technology | Logo                                                                                             | Level |
 |---------------------|--------------------------------------------------------------------------------------------------|-------|
@@ -274,7 +276,7 @@
 | Redis               | <p align="left"> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> | 50%   |
 | SQLite              | <p align="left"> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> | 60%   |
 
-#### Data Visualization Technologies
+#### 🅳🅰🆃🅰 🆅🅸🆂🆄🅰🅻🅸🆉🅰🆃🅸🅾🅽 🆃🅴🅲🅷🅽🅾🅻🅾🅶🅸🅴🆂
 
 | Framework/Language | Logo                                                                                             | Level |
 |--------------------|--------------------------------------------------------------------------------------------------|-------|
@@ -285,7 +287,7 @@
 | Kibana             | <p align="left"> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> | 60%   |
 | VuePress           | <p align="left"> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> | 70%   |
 
-#### DevOps Technologies
+#### 🅳🅴🆅🅾🅿🆂 🆃🅴🅲🅷🅽🅾🅻🅾🅶🅸🅴🆂
 
 | Framework/Language | Logo                                                                                             | Level |
 |--------------------|--------------------------------------------------------------------------------------------------|-------|
@@ -300,7 +302,7 @@
 | Travis CI          | <p align="left"> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> | 100%  |
 | Vagrant            | <p align="left"> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> | 20%   |
 
-#### Backend as a Service (BaaS) Technologies
+#### 🅱🅰🅲🅺🅴🅽🅳 🅰🆂 🅰 🆂🅴🆁🆅🅸🅲🅴 (🅱🅰🅰🆂) 🆃🅴🅲🅷🅽🅾🅻🅾🅶🅸🅴🆂
 
 | Framework/Language | Logo                                                                                             | Level |
 |--------------------|--------------------------------------------------------------------------------------------------|-------|
@@ -310,7 +312,7 @@
 | Heroku             | <p align="left"> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> | 50%   |
 | VuePress           | <p align="left"> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> | 60%   |
 
-#### Framework Technologies
+#### 🅵🆁🅰🅼🅴🆆🅾🆁🅺 🆃🅴🅲🅷🅽🅾🅻🅾🅶🅸🅴🆂
 
 | Framework/Language | Logo                                                                                             | Level |
 |--------------------|--------------------------------------------------------------------------------------------------|-------|
@@ -325,7 +327,7 @@
 | Symfony            | <p align="left"> <a href="https://symfony.com" target="_blank" rel="noreferrer"> <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony" width="40" height="40"/> </a> | 100%  |
 | VuePress           | <p align="left"> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> | 20%   |
 
-#### Testing Technologies
+#### 🆃🅴🆂🆃🅸🅽🅶 🆃🅴🅲🅷🅽🅾🅻🅾🅶🅸🅴🆂
 
 | Framework/Language | Logo                                                                                             | Level |
 |--------------------|--------------------------------------------------------------------------------------------------|-------|
@@ -338,7 +340,7 @@
 | Selenium           | <p align="left"> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> | 80%   |
 | VuePress           | <p align="left"> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> | 90%   |
 
-#### Software Technologies
+#### 🆂🅾🅵🆃🆆🅰🆁🅴 🆃🅴🅲🅷🅽🅾🅻🅾🅶🅸🅴🆂
 
 | Tool/Software       | Logo                                                                                               | Level |
 |---------------------|----------------------------------------------------------------------------------------------------|-------|
@@ -354,7 +356,7 @@
 | VuePress            | <p align="left"> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> | 20%   |
 | Adobe XD            | <p align="left"> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> | 30%   |
 
-#### Static Site Generators
+#### 🆂🆃🅰🆃🅸🅲 🆂🅸🆃🅴 🅶🅴🅽🅴🆁🅰🆃🅾🆁🆂
 
 | Framework/Language | Logo                                                                                             | Level |
 |--------------------|--------------------------------------------------------------------------------------------------|-------|
@@ -372,21 +374,21 @@
 | Sculpin            | <p align="left"> <a href="https://sculpin.io/" target="_blank" rel="noreferrer"> <img src="https://gist.githubusercontent.com/vivek32ta/c7f7bf583c1fb1c58d89301ea40f37fd/raw/1782aef8672484698c0dd407f900c4a329ed5bc4/sculpin.svg" alt="sculpin" width="40" height="40"/> </a> | 40%   |
 | VuePress           | <p align="left"> <a href="https://vuepress.vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"/> </a> | 50%   |
 
-#### Game Engines Technologies
+#### 🅶🅰🅼🅴 🅴🅽🅶🅸🅽🅴🆂 🆃🅴🅲🅷🅽🅾🅻🅾🅶🅸🅴🆂
 
 | Framework/Language | Logo                                                                                             | Level |
 |--------------------|--------------------------------------------------------------------------------------------------|-------|
 | Unity              | <p align="left"> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> | 20%   |
 | Unreal Engine      | <p align="left"> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> | 30%   |
 
-#### Automations Technologies
+#### 🅰🆄🆃🅾🅼🅰🆃🅸🅾🅽🆂 🆃🅴🅲🅷🅽🅾🅻🅾🅶🅸🅴🆂
 
 | Framework/Language | Logo                                                                                             | Level |
 |--------------------|--------------------------------------------------------------------------------------------------|-------|
 | IFTTT              | <p align="left"> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> | 20%   |
 | Zapier             | <p align="left"> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> | 30%   |
 
-#### Others Technologies
+#### 🅾🆃🅷🅴🆁🆂 🆃🅴🅲🅷🅽🅾🅻🅾🅶🅸🅴🆂
 
 | Technology | Logo                                                                                             | Level |
 |------------|--------------------------------------------------------------------------------------------------|-------|
@@ -394,8 +396,8 @@
 | Git        | <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | 30%   |
 | Linux      | <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> | 40%   |
 
-#### Contact
-###### Connect with Me
+#### 🅲🅾🅽🆃🅰🅲🆃
+###### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐌𝐞
 
 | Social Platform    | Link                                                             |
 |--------------------|------------------------------------------------------------------|
