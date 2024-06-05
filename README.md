@@ -1,6 +1,6 @@
-# USER INFORMATION
+# ██▓▒­░⡷⠂𝚄𝚂𝙴𝚁 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽⠐⢾░▒▓██
 
-<h1 align="center">Hi 👋, I'm Jednaz</h1>
+<h1 align="center">Hi 👋, I'm 🅙🅔🅓🅝🅐🅩</h1>
 <h3 align="center">I a'm nothing...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LoneStamp&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
@@ -8,35 +8,35 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoneStamp" alt="github" /></a> </p>
 
 
-- 🔭 I’m currently working on [VVDO](https://www.facebook.com)
+- 🔭 ꧁༺ 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 ༻꧂ [VVDO](https://www.facebook.com)
 
-- 🌱 I’m currently learning **courses**
+- 🌱  ꧁༺ 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 ༻꧂ **courses**
 
-- 👯 I’m looking to collaborate on [VVDO](https://www.facebook.com)
+- 👯 ꧁༺ 𝓘’𝓶 𝓵𝓸𝓸𝓴𝓲𝓷𝓰 𝓽𝓸 𝓬𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓮 𝓸𝓷 ༻꧂ [VVDO](https://www.facebook.com)
 
-- 🤝 I’m looking for help with [VVDO](https://www.facebook.com)
+- 🤝 ꧁༺ 𝓘’𝓶 𝓵𝓸𝓸𝓴𝓲𝓷𝓰 𝓯𝓸𝓻 𝓱𝓮𝓵𝓹 𝔀𝓲𝓽𝓱 ༻꧂ [VVDO](https://www.facebook.com)
 
-- 👨‍💻 All of my projects are available at [portfolio link](portfolio link)
+- 👨‍💻 ꧁༺ 𝓐𝓵𝓵 𝓸𝓯 𝓶𝔂 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼 𝓪𝓻𝓮 𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮 𝓪𝓽 ༻꧂ [portfolio link](portfolio link)
 
-- 📝 I regularly write articles on [blog link](blog link)
+- 📝 ꧁༺ 𝓘 𝓻𝓮𝓰𝓾𝓵𝓪𝓻𝓵𝔂 𝔀𝓻𝓲𝓽𝓮 𝓪𝓻𝓽𝓲𝓬𝓵𝓮𝓼 𝓸𝓷 ༻꧂ [blog link](blog link)
 
-- 💬 Ask me about **react, vvdo, etc**
+- 💬 ꧁༺ 𝓐𝓼𝓴 𝓶𝓮 𝓪𝓫𝓸𝓾𝓽 ༻꧂ **react, vvdo, etc**
 
-- 📫 How to reach me **example@gmail.com**
+- 📫 ꧁༺ 𝓗𝓸𝔀 𝓽𝓸 𝓻𝓮𝓪𝓬𝓱 𝓶𝓮 ༻꧂ **example@gmail.com**
 
-- 📄 Know about my experiences [resume](resume)
+- 📄 ꧁༺ 𝓚𝓷𝓸𝔀 𝓪𝓫𝓸𝓾𝓽 𝓶𝔂 𝓮𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮𝓼 ༻꧂ [resume](resume)
 
-- ⚡ Fun fact **I think Im Funny**
+- ⚡ ꧁༺ 𝓕𝓾𝓷 𝓯𝓪𝓬𝓽 ༻꧂ **I think Im Funny**
 
 
-## Musics
+## ·.★·.·´¯`·.·★ 🅼🆄🆂🅸🅲 ★·.·´¯`·.·★.·
 |         |         |         |
 | ------- | ------- | ------- |
 | <img src="https://spotify-github-profile.vercel.app/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=0ef1be)](https://github.com/kittinan/spotify-github-profile)"> | <img src="https://spotify-github-profile.vercel.app/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=f7090f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"> | <img src="https://spotify-github-profile.vercel.app/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=f3e20c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"> |
 
-## Gallery
+## ·.★·.·´¯`·.·★ 🅶🅰🅻🅻🅴🆁🆈 ★·.·´¯`·.·★.·
 
-#### Personal Photo's
+#### 🅿🅴🆁🆂🅾🅽🅰🅻 🅿🅷🅾🆃🅾'🆂
 
 |                |               |               |
 |----------------|---------------|---------------|
@@ -48,7 +48,7 @@
 |<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|<img src="" width="600px" height="500px" alt=""/>|
 
 
-#### Projects Collection's
+#### ·.★·.·´¯`·.·★ 🅿🆁🅾🅹🅴🅲🆃🆂 🅲🅾🅻🅻🅴🅲🆃🅸🅾🅽'🆂 ★·.·´¯`·.·★.·
 
 |         |         |         |         |
 |---------|---------|---------|---------|
