@@ -29,7 +29,7 @@
 - ⚡ ꧁༺ 𝓕𝓾𝓷 𝓯𝓪𝓬𝓽 ༻꧂ **I think Im Funny**
 
 
-## 🅼🆈 🅼🆄🆂🅸🅲
+## 🅸'🅼 🅻🅸🆂🆃🅴🅽🅸🅽🅶 🆃🅷🅸🆂 🅼🆄🆂🅸🅲
 |         |         |         |
 | ------- | ------- | ------- |
 | <img src="https://spotify-github-profile.vercel.app/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=0ef1be)](https://github.com/kittinan/spotify-github-profile)"> | <img src="https://spotify-github-profile.vercel.app/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=f7090f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"> | <img src="https://spotify-github-profile.vercel.app/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=f3e20c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"> |
@@ -124,6 +124,62 @@
 | 👟 **Shoes**              | Types of Shoes (e.g., Sneakers, Boots)                 |
 | 👓 **Glasses/Sunglasses** | Types of Glasses/Sunglasses (if applicable)            |
 | 💍 **Accessories**        | Necklaces, Bracelets, Watches, Rings                   |
+
+###### 🅵🅰🆅🅾🆁🅸🆃🅴🆂
+
+| Category             | Favorite(s)                           |
+|----------------------|---------------------------------------|
+| Color                | Blue                                  |
+| Food                 | Sushi, Pizza                          |
+| Artist               | Vincent van Gogh                      |
+| Shoes                | Nike Air Max                          |
+| Fruits               | Mango, Strawberry                     |
+| Singer               | Adele, Ed Sheeran                     |
+| Painter              | Pablo Picasso                         |
+| Books                | "To Kill a Mockingbird" by Harper Lee |
+| Movies               | "Inception", "The Matrix"             |
+| TV Shows             | "Breaking Bad", "Game of Thrones"     |
+| Hobbies              | Reading, Traveling, Coding            |
+| Sports               | Basketball, Soccer                    |
+| Animal               | Dog                                   |
+| Season               | Spring                                |
+| Drink                | Coffee, Green Tea                     |
+| Place                | Paris, Tokyo                          |
+| Dessert              | Cheesecake, Ice Cream                 |
+| Vegetable            | Broccoli, Carrot                      |
+| Car                  | Tesla Model S, BMW i8                 |
+| Instrument           | Guitar, Piano                         |
+| Writer               | J.K. Rowling, George Orwell           |
+| Vacation Spot        | Maldives, Hawaii                      |
+| Flower               | Rose, Tulip                           |
+| Historical Figure    | Albert Einstein, Leonardo da Vinci    |
+| Comic Book Character | Spider-Man, Batman                    |
+| Superhero            | Iron Man, Wonder Woman                |
+| Villain              | The Joker, Darth Vader                |
+| Board Game           | Chess, Monopoly                       |
+| Card Game            | Poker, Uno                            |
+| Ice Cream Flavor     | Vanilla, Chocolate                    |
+| Cuisine              | Italian, Japanese                     |
+| Drink (Alcoholic)    | Wine, Whiskey                         |
+| Genre (Music)        | Rock, Jazz                            |
+| Genre (Movies)       | Sci-Fi, Thriller                      |
+| Genre (Books)        | Mystery, Fantasy                      |
+| Pet                  | Cat, Dog                              |
+| App                  | Spotify, Reddit                       |
+| Social Media         | Twitter, Instagram                    |
+| Holiday              | Christmas, New Year                   |
+| Sport to Play        | Tennis, Basketball                    |
+| Sport to Watch       | Football, Basketball                  |
+| Mode of Transport    | Bicycle, Train                        |
+| Outdoor Activity     | Hiking, Camping                       |
+| Indoor Activity      | Reading, Cooking                      |
+| Fictional Universe   | Middle-earth, Harry Potter            |
+| Quote                | "To be or not to be"                  |
+| Scent                | Lavender, Ocean Breeze                |
+| TV Channel           | National Geographic, BBC              |
+| Time of Day          | Morning, Evening                      |
+| Decade               | 1990s, 2000s                          |
+| Subject in School    | Science, History                      |
 
 
 ##### 🄴🄳🅄🄲🄰🅃🄸🄾🄽
