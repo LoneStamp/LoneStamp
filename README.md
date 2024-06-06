@@ -125,48 +125,48 @@
 | 👓 **Glasses/Sunglasses** | Types of Glasses/Sunglasses (if applicable)            |
 | 💍 **Accessories**        | Necklaces, Bracelets, Watches, Rings                   |
 
-###### 🅵🅰🆅🅾🆁🅸🆃🅴🆂
+###### 🄵🄰🅅🄾🅁🄸🅃🄴🅂
 
 | Category             | Favorite(s)                           |
 |----------------------|---------------------------------------|
-| Color                | Blue                                  |
+| Color                | Black                                  |
 | Food                 | Sushi, Pizza                          |
 | Artist               | Vincent van Gogh                      |
 | Shoes                | Nike Air Max                          |
 | Fruits               | Mango, Strawberry                     |
-| Singer               | Adele, Ed Sheeran                     |
+| Singer               | Justin B, Demi Lovato, Taylor Swift   |
 | Painter              | Pablo Picasso                         |
 | Books                | "To Kill a Mockingbird" by Harper Lee |
-| Movies               | "Inception", "The Matrix"             |
+| Movies               | "Tom Yong Gong", "Game of Death"      |
 | TV Shows             | "Breaking Bad", "Game of Thrones"     |
 | Hobbies              | Reading, Traveling, Coding            |
-| Sports               | Basketball, Soccer                    |
-| Animal               | Dog                                   |
+| Sports               | Martial Arts                          |
+| Animal               | Dog, Shark, Crocodile                 |
 | Season               | Spring                                |
-| Drink                | Coffee, Green Tea                     |
-| Place                | Paris, Tokyo                          |
-| Dessert              | Cheesecake, Ice Cream                 |
+| Drink                | Cola                                  |
+| Place                | Russia, Belorechensk                  |
+| Dessert              | Cheesecake, Ice Cream, Fruit Salad    |
 | Vegetable            | Broccoli, Carrot                      |
 | Car                  | Tesla Model S, BMW i8                 |
 | Instrument           | Guitar, Piano                         |
-| Writer               | J.K. Rowling, George Orwell           |
-| Vacation Spot        | Maldives, Hawaii                      |
+| Writer               | J.K. Rowling, Paulo Coelho            |
+| Vacation Spot        | Sweden, Russia, Norway                |
 | Flower               | Rose, Tulip                           |
 | Historical Figure    | Albert Einstein, Leonardo da Vinci    |
-| Comic Book Character | Spider-Man, Batman                    |
+| Comic Book Character | Spider-Man, Captain America           |
 | Superhero            | Iron Man, Wonder Woman                |
 | Villain              | The Joker, Darth Vader                |
 | Board Game           | Chess, Monopoly                       |
-| Card Game            | Poker, Uno                            |
+| Card Game            | None                                  |
 | Ice Cream Flavor     | Vanilla, Chocolate                    |
 | Cuisine              | Italian, Japanese                     |
-| Drink (Alcoholic)    | Wine, Whiskey                         |
-| Genre (Music)        | Rock, Jazz                            |
-| Genre (Movies)       | Sci-Fi, Thriller                      |
-| Genre (Books)        | Mystery, Fantasy                      |
+| Drink (Alcoholic)    | None                                  |
+| Genre (Music)        | Rock, Jazz, Pop                       |
+| Genre (Movies)       | Sci-Fi, Thriller, Action              |
+| Genre (Books)        | Mystery, Fantasy, History             |
 | Pet                  | Cat, Dog                              |
 | App                  | Spotify, Reddit                       |
-| Social Media         | Twitter, Instagram                    |
+| Social Media         | Twitter, Instagram, Facebook, VK, YT  |
 | Holiday              | Christmas, New Year                   |
 | Sport to Play        | Tennis, Basketball                    |
 | Sport to Watch       | Football, Basketball                  |
