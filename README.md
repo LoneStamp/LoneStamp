@@ -127,59 +127,60 @@
 
 ###### 🄵🄰🅅🄾🅁🄸🅃🄴🅂
 
-| Category             | Favorite(s)                           |
-|----------------------|---------------------------------------|
-| Color                | Black                                  |
-| Food                 | Sushi, Pizza                          |
-| Artist               | Vincent van Gogh                      |
-| Shoes                | Nike Air Max                          |
-| Fruits               | Mango, Strawberry                     |
-| Singer               | Justin B, Demi Lovato, Taylor Swift   |
-| Painter              | Pablo Picasso                         |
-| Books                | "To Kill a Mockingbird" by Harper Lee |
-| Movies               | "Tom Yong Gong", "Game of Death"      |
-| TV Shows             | "Breaking Bad", "Game of Thrones"     |
-| Hobbies              | Reading, Traveling, Coding            |
-| Sports               | Martial Arts                          |
-| Animal               | Dog, Shark, Crocodile                 |
-| Season               | Spring                                |
-| Drink                | Cola                                  |
-| Place                | Russia, Belorechensk                  |
-| Dessert              | Cheesecake, Ice Cream, Fruit Salad    |
-| Vegetable            | Broccoli, Carrot                      |
-| Car                  | Tesla Model S, BMW i8                 |
-| Instrument           | Guitar, Piano                         |
-| Writer               | J.K. Rowling, Paulo Coelho            |
-| Vacation Spot        | Sweden, Russia, Norway                |
-| Flower               | Rose, Tulip                           |
-| Historical Figure    | Albert Einstein, Leonardo da Vinci    |
-| Comic Book Character | Spider-Man, Captain America           |
-| Superhero            | Iron Man, Wonder Woman                |
-| Villain              | The Joker, Darth Vader                |
-| Board Game           | Chess, Monopoly                       |
-| Card Game            | None                                  |
-| Ice Cream Flavor     | Vanilla, Chocolate                    |
-| Cuisine              | Italian, Japanese                     |
-| Drink (Alcoholic)    | None                                  |
-| Genre (Music)        | Rock, Jazz, Pop                       |
-| Genre (Movies)       | Sci-Fi, Thriller, Action              |
-| Genre (Books)        | Mystery, Fantasy, History             |
-| Pet                  | Cat, Dog                              |
-| App                  | Spotify, Reddit                       |
-| Social Media         | Twitter, Instagram, Facebook, VK, YT  |
-| Holiday              | Christmas, New Year                   |
-| Sport to Play        | Tennis, Basketball                    |
-| Sport to Watch       | Football, Basketball                  |
-| Mode of Transport    | Bicycle, Train                        |
-| Outdoor Activity     | Hiking, Camping                       |
-| Indoor Activity      | Reading, Cooking                      |
-| Fictional Universe   | Middle-earth, Harry Potter            |
-| Quote                | "To be or not to be"                  |
-| Scent                | Lavender, Ocean Breeze                |
-| TV Channel           | National Geographic, BBC              |
-| Time of Day          | Morning, Evening                      |
-| Decade               | 1990s, 2000s                          |
-| Subject in School    | Science, History                      |
+| Category             | Favorite(s)                                           |
+|----------------------|-------------------------------------------------------|
+| 🎨 Color                | Black                                                |
+| 🍣 Food                 | Sushi, Pizza                                         |
+| 🎨 Artist               | Vincent van Gogh                                     |
+| 👟 Shoes                | Nike Air Max                                         |
+| 🍉 Fruits               | Mango, Strawberry                                    |
+| 🎤 Singer               | Justin Bieber, Demi Lovato, Taylor Swift             |
+| 🖌️ Painter              | Pablo Picasso                                        |
+| 📚 Books                | "To Kill a Mockingbird" by Harper Lee                |
+| 🎬 Movies               | "Tom Yong Gong", "Game of Death"                     |
+| 📺 TV Shows             | "Breaking Bad", "Game of Thrones"                    |
+| 🎨 Hobbies              | Reading, Traveling, Coding                           |
+| 🥋 Sports               | Martial Arts                                         |
+| 🐶 Animal               | Dog, Shark, Crocodile                                |
+| 🌸 Season               | Spring                                               |
+| 🥤 Drink                | Cola                                                 |
+| 🌍 Place                | Russia, Belorechensk                                 |
+| 🍰 Dessert              | Cheesecake, Ice Cream, Fruit Salad                   |
+| 🥦 Vegetable            | Broccoli, Carrot                                     |
+| 🚗 Car                  | Tesla Model S, BMW i8                                |
+| 🎸 Instrument           | Guitar, Piano                                        |
+| ✍️ Writer               | J.K. Rowling, Paulo Coelho                           |
+| 🌴 Vacation Spot        | Sweden, Russia, Norway                               |
+| 🌹 Flower               | Rose, Tulip                                          |
+| 🧑‍🏫 Historical Figure    | Albert Einstein, Leonardo da Vinci                   |
+| 🦸‍♂️ Comic Book Character | Spider-Man, Captain America                          |
+| 🦸‍♀️ Superhero            | Iron Man, Wonder Woman                              |
+| 🦹 Villain              | The Joker, Darth Vader                               |
+| 🎲 Board Game           | Chess, Monopoly                                      |
+| 🃏 Card Game            | None                                                 |
+| 🍦 Ice Cream Flavor     | Vanilla, Chocolate                                   |
+| 🍣 Cuisine              | Italian, Japanese                                    |
+| 🍷 Drink (Alcoholic)    | None                                                 |
+| 🎵 Genre (Music)        | Rock, Jazz, Pop                                      |
+| 🎥 Genre (Movies)       | Sci-Fi, Thriller, Action                             |
+| 📖 Genre (Books)        | Mystery, Fantasy, History                            |
+| 🐱 Pet                  | Cat, Dog                                             |
+| 📱 App                  | Spotify, Reddit                                      |
+| 💬 Social Media         | Twitter, Instagram, Facebook, VK, YouTube            |
+| 🎄 Holiday              | Christmas, New Year                                  |
+| 🏸 Sport to Play        | Tennis, Basketball                                   |
+| 📺 Sport to Watch       | Football, Basketball                                 |
+| 🚲 Mode of Transport    | Bicycle, Train                                       |
+| 🏕️ Outdoor Activity     | Hiking, Camping                                      |
+| 📚 Indoor Activity      | Reading, Cooking                                     |
+| 🧙‍♂️ Fictional Universe   | Middle-earth, Harry Potter                          |
+| 💬 Quote                | "Competence lead to Darkness"                        |
+| 🌸 Scent                | Lavender, Ocean Breeze                               |
+| 📺 TV Channel           | National Geographic, BBC                             |
+| 🕰️ Time of Day          | Morning, Evening                                     |
+| 📅 Decade               | 1800s, 1990s, 2000s                                  |
+| 🧪 Subject in School    | Science, History                                     |
+
 
 
 ##### 🄴🄳🅄🄲🄰🅃🄸🄾🄽
