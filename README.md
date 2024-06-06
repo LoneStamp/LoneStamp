@@ -72,6 +72,8 @@
 
 [![LoneStamp's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@LoneStamp99)](https://github.com/LoneStamp/github-readme-stats)
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/LoneStamp/github-readme-quotes)
+
 ## 🅱🅸🅾🅳🅰🆃🅰
 
 ### 𝐏𝐫𝐢𝐦𝐚𝐫𝐲
