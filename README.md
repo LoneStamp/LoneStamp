@@ -8,13 +8,13 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoneStamp" alt="github" /></a> </p>
 
 
-- 🔭 ꧁༺ 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 ༻꧂ [BlackVideo](https://www.facebook.com)
+- 🔭 ꧁༺ 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 ༻꧂ [BlackVideo](https://www.facebook.co), [BlackMusic](https://www.facebook.co), and [BlackGallery](https://www.facebook.co)
 
 - 🌱  ꧁༺ 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 ༻꧂ **courses**
 
-- 👯 ꧁༺ 𝓘’𝓶 𝓵𝓸𝓸𝓴𝓲𝓷𝓰 𝓽𝓸 𝓬𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓮 𝓸𝓷 ༻꧂ [VVDO](https://www.facebook.com)
+- 👯 ꧁༺ 𝓘’𝓶 𝓵𝓸𝓸𝓴𝓲𝓷𝓰 𝓽𝓸 𝓬𝓸𝓵𝓵𝓪𝓫𝓸𝓻𝓪𝓽𝓮 𝓸𝓷 ༻꧂ [BlackVideo](https://www.facebook.com)
 
-- 🤝 ꧁༺ 𝓘’𝓶 𝓵𝓸𝓸𝓴𝓲𝓷𝓰 𝓯𝓸𝓻 𝓱𝓮𝓵𝓹 𝔀𝓲𝓽𝓱 ༻꧂ [VVDO](https://www.facebook.com)
+- 🤝 ꧁༺ 𝓘’𝓶 𝓵𝓸𝓸𝓴𝓲𝓷𝓰 𝓯𝓸𝓻 𝓱𝓮𝓵𝓹 𝔀𝓲𝓽𝓱 ༻꧂ [BlackVideo](https://www.facebook.com)
 
 - 👨‍💻 ꧁༺ 𝓐𝓵𝓵 𝓸𝓯 𝓶𝔂 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼 𝓪𝓻𝓮 𝓪𝓿𝓪𝓲𝓵𝓪𝓫𝓵𝓮 𝓪𝓽 ༻꧂ [portfolio link](portfolio link)
 
@@ -22,7 +22,7 @@
 
 - 💬 ꧁༺ 𝓐𝓼𝓴 𝓶𝓮 𝓪𝓫𝓸𝓾𝓽 ༻꧂ **react, vvdo, etc**
 
-- 📫 ꧁༺ 𝓗𝓸𝔀 𝓽𝓸 𝓻𝓮𝓪𝓬𝓱 𝓶𝓮 ༻꧂ **example@gmail.com**
+- 📫 ꧁༺ 𝓗𝓸𝔀 𝓽𝓸 𝓻𝓮𝓪𝓬𝓱 𝓶𝓮 ༻꧂ <a href="">↓Click Me↓</>
 
 - 📄 ꧁༺ 𝓚𝓷𝓸𝔀 𝓪𝓫𝓸𝓾𝓽 𝓶𝔂 𝓮𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮𝓼 ༻꧂ [resume](resume)
 
