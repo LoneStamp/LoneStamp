@@ -1,0 +1,69 @@
+{
+    "profile": {
+      "name": "Unkown",
+      "bio": "There's no chosen one, what you get—is what you choose.",
+      "location": "Philippines",
+      "email": "jednazlonestamp9.com",
+      "social": {
+        "github": "https://github.com/LoneStamp",
+        "linkedin": "https://www.linkedin.com/in/your-username/",
+        "twitter": "https://twitter.com/jednazlonestamp"
+      }
+    },
+    "projects": [
+      {
+        "name": "BlackVideo",
+        "status": "stopped",
+        "description": "BlackVideo - Black : Versatile Integrated Demi Empowerment Optimum—Player. A video player with integration of wide variety of playback functionalities. ",
+        "link": "https://github.com/LoneStamp/BlackVideo",
+        "technologies": ["Ada", "Node.js", "C++", "Python", "Javascript", "HTML", "MySQL", "AWS", "Docker", "Typescript", "API", "Database"]
+      },
+      {
+        "name": "BlackMusic",
+        "description": "BlackMusic: Black - Music Ultra Superior Integrated Catalog. A music player designed to deliver an unparalleled audio experience. BlackMusic integrates a vast catalog of music with superior playback functionalities.",
+        "link": "https://github.com/LoneStamp/BlackMusic",
+        "technologies": ["Python", "Node.js", "C++", "Javascript", "HTML", "MySQL", "Docker", "Typescript", "API", "Database"]
+      }
+    ],
+    "skills": [
+      "JavaScript",
+      "Python",
+      "C++",
+      "React",
+      "Node.js",
+      "Docker",
+      "Kubernetes",
+      "Photoshop",
+      "Eel Framework",
+      "Tauri",
+      "Electron",
+      "Figma",
+      "Athena OS"
+    ],
+    "education": [
+      {
+        "degree": "Uknown",
+        "institution": "Uknown",
+        "year": "Uknown"
+      }
+    ],
+    "workExperience": [
+      {
+        "title": "Uknown",
+        "company": "Uknown",
+        "years": "Uknown",
+        "description": "Uknown"
+      }
+    ],
+    "achievements": [
+      {
+        "title": "Uknown",
+        "issuer": "Uknown",
+        "year": "Uknown"
+      }
+    ],
+    "contact": {
+      "email": "jednazlonestamp9@gmail.com",
+      "phone": "+1234567890"
+    }
+  }
