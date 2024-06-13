@@ -22,7 +22,7 @@
 
 - 💬 ꧁༺ 𝓐𝓼𝓴 𝓶𝓮 𝓪𝓫𝓸𝓾𝓽 ༻꧂ **react, vvdo, etc**
 
-- 📫 ꧁༺ 𝓗𝓸𝔀 𝓽𝓸 𝓻𝓮𝓪𝓬𝓱 𝓶𝓮 ༻꧂ <a href="">↓Click Me↓</>
+- 📫 ꧁༺ 𝓗𝓸𝔀 𝓽𝓸 𝓻𝓮𝓪𝓬𝓱 𝓶𝓮 ༻꧂ <a href="">↓Below↓</a>
 
 - 📄 ꧁༺ 𝓚𝓷𝓸𝔀 𝓪𝓫𝓸𝓾𝓽 𝓶𝔂 𝓮𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮𝓼 ༻꧂ [resume](resume)
 
@@ -95,7 +95,8 @@
 | 🌟 **Attribute**    | 🌟 **Details**                           |
 |---------------------|------------------------------------------|
 | 👤 **Name**         | Unkown                                |
-| 🕵️‍♂️ **Codename**   | Jednaz Lonestamp                            |
+| 🎤 **Stagename**    | Jednaz Lonestamp
+| 🕵️‍♂️ **Codename**     | Not Available                            |
 | 🎂 **Birthday**     | Your Birthday (e.g., January 1, 2000)    |
 | 📅 **Age**          | 21                                 |
 | 🏙️ **Birthplace**   | Unknown                          |
@@ -468,6 +469,7 @@
 | Arduino    | <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> | 20%   |
 | Git        | <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> | 30%   |
 | Linux      | <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> | 40%   |
+| Kali Linux | <p align="left"> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> | 40%   |
 
 #### 🅲🅾🅽🆃🅰🅲🆃
 ###### 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐰𝐢𝐭𝐡 𝐌𝐞
