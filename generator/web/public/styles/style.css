@@ -1,0 +1,119 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background: #242323;
+}
+.readme-generator-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #d9d9d9;
+    width: 711px;
+    height: 469px;
+  }
+  .bg-ui-cover-icon {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 716px;
+    height: 469px;
+  }
+  .cover-cover-wall {
+    position: absolute;
+    top: 97px;
+    left: 61px;
+    backdrop-filter: blur(4px);
+    border-radius: 3px;
+    background-color: rgba(0, 0, 0, 0.66);
+    width: 588px;
+    height: 275px;
+  }
+  .bg-ui,
+  .profile-generator-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 716px;
+    height: 469px;
+  }
+  .profile-generator-container {
+    border-radius: 3px;
+    background-color: #d9d9d9;
+    width: 222px;
+    height: 32px;
+  }
+  .profile-generator-tx {
+    position: absolute;
+    top: 7px;
+    left: 32px;
+    font-size: 12px;
+    font-family: Poppins;
+    color: #000;
+    text-align: left;
+  }
+  .profile-generator-g,
+  .project-generator-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 222px;
+    height: 32px;
+  }
+  .profile-generator-g {
+    cursor: pointer;
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+  }
+  .project-generator-container {
+    border-radius: 3px;
+    background-color: #d9d9d9;
+  }
+  .project-generator-tx {
+    position: absolute;
+    top: 7px;
+    left: 32px;
+    font-size: 12px;
+    font-family: Poppins;
+    color: #000;
+    text-align: left;
+  }
+  .project-generator-g {
+    border: 0;
+    padding: 0;
+    background-color: transparent;
+    position: absolute;
+    top: 0;
+    left: 262px;
+    width: 222px;
+    height: 32px;
+  }
+  .button-toggles,
+  .profile-generator {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 484px;
+    height: 32px;
+  }
+  .button-toggles {
+    top: 219px;
+    left: 113px;
+  }
+  .readme-generator-main {
+    position: absolute;
+    top: 119px;
+    left: 176px;
+    width: 716px;
+    height: 469px;
+  }
+  .readme-md-git {
+    width: 100%;
+    position: relative;
+    background-color: #242323;
+    height: 708px;
+    overflow: hidden;
+  }
