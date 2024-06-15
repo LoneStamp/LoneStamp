@@ -57,6 +57,7 @@
 |<img src="https://instagram.fcgy2-2.fna.fbcdn.net/v/t51.29350-15/427408545_289866237148199_3582535059509605863_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fcgy2-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=4hOsdLevHBkQ7kNvgEchQ2-&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYBHQ4H5set9dlZFp7FG7g8JNtaXPOEYa-ImFx2Kb1V04Q&oe=666B92AF&_nc_sid=cf751b" width="200px" height="300px"/>|<img src="https://instagram.fcgy2-2.fna.fbcdn.net/v/t51.29350-15/427397118_404726401914611_1461233053150900052_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fcgy2-2.fna.fbcdn.net&_nc_cat=111&_nc_ohc=mtfEpWMzV3wQ7kNvgGUT8yw&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYCpHvplpyr0gS-jjvLWjRJYQMWmmX7xFm3ZWcclNW-GtQ&oe=666B8A9B&_nc_sid=cf751b" width="200px" height="300px"/>|<img src="https://instagram.fcgy2-2.fna.fbcdn.net/v/t51.29350-15/397923195_353749887222673_229136425746452349_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fcgy2-2.fna.fbcdn.net&_nc_cat=101&_nc_ohc=SrszOCY3Z7wQ7kNvgFrT2DD&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYByLv5rwuBhvhKnBQSgkpe8Cd-9FKKCdloi7bTTNjAVMQ&oe=666B7E38&_nc_sid=cf751b" width="200px" height="300px"/>|<img src="https://instagram.fcgy2-1.fna.fbcdn.net/v/t51.29350-15/398166120_3247168292243962_736187931014658083_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fcgy2-1.fna.fbcdn.net&_nc_cat=110&_nc_ohc=9a1MXIh-sFoQ7kNvgEu_fS7&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYDH7fX4m2CxICBw4MQ_b6-bW_Q4UlWHk3eSlpXynYCDhA&oe=666B8682&_nc_sid=cf751b" width="200px" height="300px"/>|
 |<img src="https://instagram.fcgy2-2.fna.fbcdn.net/v/t51.29350-15/434858394_1217607905873163_4048828372696268949_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fcgy2-2.fna.fbcdn.net&_nc_cat=103&_nc_ohc=518PVQAe9IMQ7kNvgE5Dzo8&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYCEJ-WrevwWWfaCS7j1eEgFF61kLmUpCoL_wv_3M_J7Vw&oe=666BAED0&_nc_sid=cf751b" width="200px" height="300px"/>|<img src="https://instagram.fcgy2-1.fna.fbcdn.net/v/t51.29350-15/435401099_1470218963926308_7432505028417692520_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fcgy2-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=H4ev1D9dgkMQ7kNvgFzZgZU&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYD23gPgU_0koXk43b9B9HWuHEn_AnME7zPccv1oVCBYrA&oe=666B7BCF&_nc_sid=cf751b" width="200px" height="300px"/>|<img src="https://instagram.fcgy2-1.fna.fbcdn.net/v/t51.29350-15/420137802_901975784566268_2595801699030710285_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fcgy2-1.fna.fbcdn.net&_nc_cat=108&_nc_ohc=Votv1vhMEB0Q7kNvgH1R2A1&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYDBnuxIAcDiO0XfKONarzXOpUC5GtC1Fg2a4kZYkTNDMA&oe=666BABD7&_nc_sid=cf751b" width="200px" height="300px"/>|<img src="https://instagram.fcgy2-1.fna.fbcdn.net/v/t51.29350-15/419583279_6815167605278634_2217779747362791146_n.jpg?stp=dst-jpg_e35_p1080x1080&_nc_ht=instagram.fcgy2-1.fna.fbcdn.net&_nc_cat=106&_nc_ohc=IBq_N3j3IYEQ7kNvgFiGRtY&edm=ANTKIIoBAAAA&ccb=7-5&oh=00_AYCwbV1wXtNZ5Mi7I_8TlmzBG79LAncofYCBRvyDRXFrkw&oe=666B8528&_nc_sid=cf751b" width="200px" height="300px"/>|
 
+
 # My Daily Routine Schedule
 
 | Time               | Activity                                       |
@@ -69,6 +70,42 @@
 | 5:00 PM - 7:00 PM  | 🛠️ Working with Projects                       |
 | 8:00 PM - 10:00 PM | 🕰️ General/Independent Time                   |
 
+#### Learning Journey
+
+##### Preface
+
+- Welcome to the story of my learning journey in the fascinating field of ethical hacking! 🌐🔍
+- It all started in Grade 10, driven by a blend of curiosity and fascination with the digital world. With no formal programming knowledge, I began by modding offline games using MT Manager, unknowingly setting the foundation for my future in ethical hacking. 🎮🔧
+- As my interest grew, I sought out resources and discovered the vast world of hacking. Realizing the challenges ahead, I decided to build a solid foundation by learning web development. 📚💻 Using only my phone, I explored various code editors and absorbed knowledge from online tutorials on FreeCodeCamp, Codecademy, and W3Schools. 📱📝
+- My journey took a significant leap forward with the discovery of Termux, enabling me to experiment and learn on the go. Thanks to my supportive family, I gained access to a laptop, which greatly accelerated my learning. ❤️👩‍👦‍👦
+- I dived into programming with JavaScript and Python, setting the stage for more advanced hacking techniques. Through virtual machines, I explored multiple operating systems, including Kali Linux, Athena OS, and Parrot OS. 💻🐧
+- Equipped with powerful tools like Nmap, Metasploit, and John the Ripper, I delved deeper into ethical hacking, continually honing my skills and knowledge. 🛠️🕵️‍♂️
+
+- This journey has been challenging, yet incredibly rewarding. I am excited to share the milestones and experiences that have shaped my path in ethical hacking. Let’s embark on this journey together! 🚀
+- Now, let's dive into the timeline of my learning milestones. 📅✨
+
+
+###### Timeline
+
+| **Year**            | **Learning Milestones**                                                                                   |**Age**| **Status**                 |  
+|---------------------|-----------------------------------------------------------------------------------------------------------|-------|----------------------------|
+| **(Mid) 2020**      | - Started modding offline games using MT Manager                                                          | 18    | High School Grade 10       |
+|                     | - Curious about programming but had no formal knowledge                                                   |       |                            |
+|                     | - Changed app contents and cracked them                                                                   |       |                            |
+| **2021**            | - Began researching all about hacking                                                                     |19     |                            |
+|                     | - Chose to pursue ethical hacking                                                                         |       |                            |
+|                     | - Found it challenging and decided to start with web development as a stepping stone                      |       |                            |
+|                     | - Downloaded various code editors on phone                                                                |       |                            |
+|                     | - Watched online tutorials from FreeCodeCamp, Codecademy, W3Schools                                       |       |                            |
+|                     | - Collected and studied source codes from others                                                          |       |                            |
+|                     | - Discovered and started using Termux as part of the ethical hacking journey                              |       |                            |
+| **2022**            | - Borrowed and eventually received a laptop from mom                                                      |20     |                            |
+|                     | - Learned JavaScript and Python as first programming languages                                            |       |                            |
+|                     | - Installed various OS using virtual machines (Kali Linux, Athena OS, Parrot OS)                          |       |                            |
+|                     | - Watched online hacking tutorials on YouTube                                                             |       |                            |
+|                     | - Used hacking tools like Nmap, Metasploit, John the Ripper, and more                                     |       |                            |
+| **2023**            |                                                                                                           |21     |                            |
+| **2024**            |                                                                                                           |22     |                            |
 
 #### 𝐏𝐫𝐨𝐣𝐞𝐜𝐭 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐨𝐧𝐬
 
