@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoneStamp" alt="github" /></a> </p>
 
-
+<!--
 - 🔭 ꧁༺ 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 ༻꧂ [BlackVideo](https://www.facebook.co), [BlackMusic](https://www.facebook.co), and [BlackGallery](https://www.facebook.co)
 
 - 🌱  ꧁༺ 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 ༻꧂ **courses**
@@ -27,6 +27,63 @@
 - 📄 ꧁༺ 𝓚𝓷𝓸𝔀 𝓪𝓫𝓸𝓾𝓽 𝓶𝔂 𝓮𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮𝓼 ༻꧂ [resume](resume)
 
 - ⚡ ꧁༺ 𝓕𝓾𝓷 𝓯𝓪𝓬𝓽 ༻꧂ **I think Im Funny**
+-->
+
+<p align="left" style="font-size: 14px; color: #db0000; margin-top: 20px;">
+    <a href="" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↓ 👋 ꧁ॐ卐✞ ʜɪ, ɪ’ᴍ ᴜɴᴋɴᴏᴡɴ ✞卐ॐ꧂ ↓
+    </a>
+</p>
+  <p align="left" style="font-size: 14px; color: #db0000; margin-top: 20px;">
+    <a href="" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↓ 👀 ꧁ॐ卐✞ ɪ’ᴍ ɪɴᴛᴇʀᴇꜱᴛᴇᴅ ɪɴ ᴜɴᴋɴᴏᴡɴ ✞卐ॐ꧂ ↓
+    </a>
+</p>
+   <p align="left" style="font-size: 14px; color: #db0000; margin-top: 20px;">
+    <a href="" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↓ 🌱 ꧁ॐ卐✞ ɪ’ᴍ ᴄᴜʀʀᴇɴᴛʟʏ ʟᴇᴀʀɴɪɴɢ ʜᴛᴍʟ... ✞卐ॐ꧂ ↓
+    </a>
+</p>
+<p align="left" style="font-size: 14px; color: #db0000; margin-top: 20px;">
+    <a href="" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↓ 🌱 ꧁ॐ卐✞ 🔭 I’m currently working on ✞卐ॐ꧂ ↓
+    </a>
+</p>
+  <p align="left" style="font-size: 14px; color: #db0000; margin-top: 20px;">
+    <a href="" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↓ 💞️ ꧁ॐ卐✞ ɪ’ᴍ ʟᴏᴏᴋɪɴɢ ᴛᴏ ᴄᴏʟʟᴀʙᴏʀᴀᴛᴇ ᴏɴ ✞卐ॐ꧂ ↓
+    </a>
+</p>
+<p align="left" style="font-size: 14px; color: #db0000; margin-top: 20px;">
+    <a href="" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↓ 🤝 ꧁ॐ卐✞ I’m looking for help with ✞卐ॐ꧂ ↓
+    </a>
+</p>
+<p align="left" style="font-size: 14px; color: #db0000; margin-top: 20px;">
+    <a href="" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↓ 📝 ꧁ॐ卐✞ I regularly write articles on ✞卐ॐ꧂ ↓
+    </a>
+</p>
+<p align="left" style="font-size: 14px; color: #db0000; margin-top: 20px;">
+    <a href="" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↓ ⚡ ꧁ॐ卐✞ Fun fact **I think Im Funny** ✞卐ॐ꧂ ↓
+    </a>
+</p>
+<p align="left" style="font-size: 14px; color: #db0000; margin-top: 20px;">
+    <a href="" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↓ 👨‍💻 ꧁ॐ卐✞ All of my projects are available at ✞卐ॐ꧂ ↓
+    </a>
+</p>
+<p align="left" style="font-size: 14px; color: #db0000; margin-top: 20px;">
+    <a href="" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↓ 📄 ꧁ॐ卐✞ Know about my experiences ✞卐ॐ꧂ ↓
+    </a>
+</p>
+<p align="left" style="font-size: 14px; color: #db0000; margin-top: 20px;">
+    <a href="#readme-bot" style="text-decoration: none; color: #007bff; font-weight: bold;">
+        ↓ 📫 ꧁ॐ卐✞ ʜᴏᴡ ᴛᴏ ʀᴇᴀᴄʜ ᴍᴇ ... ✞卐ॐ꧂ ↓
+    </a>
+</p>
 
 
 ## 🅸'🅼 🅻🅸🆂🆃🅴🅽🅸🅽🅶 🆃🅷🅸🆂 🅼🆄🆂🅸🅲
@@ -547,6 +604,11 @@
 | TopCoder           | <a href="https://www.topcoder.com/members/topcoder"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" width="40" height="40"></a> |
 | Discord            | <a href="https://discord.gg/discord"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" width="40" height="40"></a> |
 | RSS                | <a href="https://rss.com/rss"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" width="40" height="40"></a> |
+| OK         |<img src="https://github.com/LoneStamp99/LoneStamp99/assets/93658802/081d7eaf-7397-407a-a94e-c328a7ee0906" alt="Odnoklassniki" width="40" height="40"> [@your_ok_handle](https://ok.ru/)|
+| Pinterest  |<img src="https://github.com/LoneStamp99/LoneStamp99/assets/93658802/e89c6c82-e8e4-42fa-9537-b6fa21cc59bc" alt="Pinterest" width="40" height="40"> [@your_pinterest_handle](https://pinterest.com/your_twitter_handle)|
+| IRC        |<img src="https://github.com/LoneStamp99/LoneStamp99/assets/93658802/2233a20d-b2d7-406f-a38a-e46b0fbdfbd7" alt="IRC-Galleria" width="40" height="40"> [@your_irc_handle](https://irc-galleria.net/)|
+| Devian Art |<img src="https://github.com/LoneStamp99/LoneStamp99/assets/93658802/bee87161-78a8-4c14-8eb2-20ad5415ec43" alt="IRC-Galleria" width="40" height="40"> [@your_deviant art_handle](https://www.deviantart.com/)|
+| VK         |<img src="https://github.com/LoneStamp99/LoneStamp99/assets/93658802/b5ec3bc0-87e8-41a9-b327-ab2db11e5f45" alt="VKontakte" width="40" height="40"> [@your_vk_handle](https://vk.com/)|
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{LoneStamp}/count.svg)
