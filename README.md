@@ -609,6 +609,7 @@
 | IRC        |<img src="https://github.com/LoneStamp99/LoneStamp99/assets/93658802/2233a20d-b2d7-406f-a38a-e46b0fbdfbd7" alt="IRC-Galleria" width="40" height="40"> [@your_irc_handle](https://irc-galleria.net/)|
 | Devian Art |<img src="https://github.com/LoneStamp99/LoneStamp99/assets/93658802/bee87161-78a8-4c14-8eb2-20ad5415ec43" alt="IRC-Galleria" width="40" height="40"> [@your_deviant art_handle](https://www.deviantart.com/)|
 | VK         |<img src="https://github.com/LoneStamp99/LoneStamp99/assets/93658802/b5ec3bc0-87e8-41a9-b327-ab2db11e5f45" alt="VKontakte" width="40" height="40"> [@your_vk_handle](https://vk.com/)|
+<div id="readme-bot"></div>
 
 
 ![Visitor Count](https://profile-counter.glitch.me/{LoneStamp}/count.svg)
