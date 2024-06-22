@@ -230,7 +230,7 @@
 | 🥋 **Martial Arts Style**  | Brazilian Jiu-Jitsu (BJJ)                                         |
 | 📚 **Reading Books**       | Martial Arts, Military, Intelligence, History, Mythical Creatures |
 | 🎵 **Music**               | Various genres you enjoy listening to                            |
-| 🎬 **Movies**              | Genres or specific movies you enjoy                              |
+| 🎬 **Movies**              | Action, Drama, Fantasy                              |
 
 ###### 🄵🄰🅂🄷🄸🄾🄽
 
