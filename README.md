@@ -254,7 +254,7 @@
 | 🍣 Food                 | Sushi, Pizza                                         |
 | 🎨 Artist               | Vincent van Gogh                                     |
 | 👟 Shoes                | Nike Air Max                                         |
-| 🍉 Fruits               | Mango, Strawberry                                    |
+| 🍉 Fruits               | Mango, Strawberry, Warer Melon                                    |
 | 🎤 Singer               | Justin Bieber, Demi Lovato, Taylor Swift             |
 | 🖌️ Painter              | Pablo Picasso                                        |
 | 📚 Books                | "To Kill a Mockingbird" by Harper Lee                |
@@ -287,7 +287,7 @@
 | 📖 Genre (Books)        | Mystery, Fantasy, History                            |
 | 🐱 Pet                  | Cat, Dog                                             |
 | 📱 App                  | Spotify, Reddit                                      |
-| 💬 Social Media         | Twitter, Instagram, Facebook, VK, YouTube            |
+| 💬 Social Media         | Twitter, Instagram, Facebook, VK, YouTube, OK            |
 | 🎄 Holiday              | Christmas, New Year                                  |
 | 🏸 Sport to Play        | Tennis, Basketball                                   |
 | 📺 Sport to Watch       | Football, Basketball                                 |
@@ -298,7 +298,7 @@
 | 💬 Quote                | "Competence lead to Darkness"                        |
 | 🌸 Scent                | Lavender, Ocean Breeze                               |
 | 📺 TV Channel           | National Geographic, BBC                             |
-| 🕰️ Time of Day          | Morning, Evening                                     |
+| 🕰️ Time of Day          | Afternoon, Evening                                     |
 | 📅 Decade               | 1800s, 1990s, 2000s                                  |
 | 🧪 Subject in School    | Science, History                                     |
 
