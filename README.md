@@ -292,12 +292,12 @@
 | 🏸 Sport to Play        | Tennis, Basketball                                   |
 | 📺 Sport to Watch       | Football, Basketball                                 |
 | 🚲 Mode of Transport    | Bicycle, Train                                       |
-| 🏕️ Outdoor Activity     | Hiking, Camping                                      |
+| 🏕️ Outdoor Activity     | Hiking, Camping, Nature                                      |
 | 📚 Indoor Activity      | Reading, Cooking                                     |
 | 🧙‍♂️ Fictional Universe   | Middle-earth, Harry Potter                          |
 | 💬 Quote                | "Competence lead to Darkness"                        |
 | 🌸 Scent                | Lavender, Ocean Breeze                               |
-| 📺 TV Channel           | National Geographic, BBC                             |
+| 📺 TV Channel           | National Geographic, BBC, Fight Sports                             |
 | 🕰️ Time of Day          | Afternoon, Evening                                     |
 | 📅 Decade               | 1800s, 1990s, 2000s                                  |
 | 🧪 Subject in School    | Science, History                                     |
