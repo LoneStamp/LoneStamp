@@ -336,10 +336,10 @@
 
 | 👨‍💻 **Programming Language** | 💡 **Level**    |
 |-------------------------------|-----------------|
-| [C](https://www.cprogramming.com/) <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | 10%    |
+| [C](https://www.cprogramming.com/) <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> | 0    |
 | [Clojure](https://clojure.org/) <br> <img src="https://upload.wikimedia.org/wikipedia/commons/5/5d/Clojure_logo.svg" alt="clojure" width="40" height="40"/> | 0%        |
 | [CoffeeScript](https://offeescript.org) <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/coffeescript/coffeescript-original-wordmark.svg" alt="coffeescript" width="40" height="40"/> | 0%        |
-| [C++](https://www.w3schools.com/cpp/) <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | 30%    |
+| [C++](https://www.w3schools.com/cpp/) <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> | 0.5%    |
 | [C#](https://www.w3schools.com/cs/) <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> | 10%         |
 | [Elixir](https://elixir-lang.org) <br> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> | 0%    |
 | [Erlang](https://www.erlang.org/) <br> <img src="https://www.vectorlogo.zone/logos/erlang/erlang-official.svg" alt="erlang" width="40" height="40"/> | 0%         |
@@ -353,7 +353,7 @@
 | [Perl](https://www.perl.org/) <br> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> | Intermediate    |
 | [PHP](https://www.php.net) <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> | 0%         |
 | [Python](https://www.python.org) <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> | 10%        |
-| [Ruby](https://www.ruby-lang.org/en/) <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> | 50%    |
+| [Ruby](https://www.ruby-lang.org/en/) <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> | 0    |
 | [Rust](https://www.rust-lang.org) <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> | 0%     |
 | [Scala](https://www.scala-lang.org) <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> | 0%     |
 | [Swift](https://developer.apple.com/swift/) <br> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> | 0%     |
@@ -381,13 +381,13 @@
 | Qt                 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"> | 0%   |
 | React              | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"> | 0%   |
 | Redux              | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"> | 0%   |
-| Sass               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"> | 100%  |
-| Svelte             | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"> | 20%   |
-| Tailwind CSS       | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"> | 10%   |
+| Sass               | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"> | 09%  |
+| Svelte             | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"> | 0.1%   |
+| Tailwind CSS       | <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"> | 01%   |
 | Vue.js             | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"> | 0%   |
 | VuePress           | <img src="https://raw.githubusercontent.com/AliasIO/wappalyzer/master/src/drivers/webextension/images/icons/VuePress.svg" alt="vuepress" width="40" height="40"> | 0%   |
 | Vuetify            | <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"> | 0%   |
-| Webpack            | <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"> | 70%   |
+| Webpack            | <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"> | 0%   |
 | wxWidgets          | <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"> | 0%   |
 
 
