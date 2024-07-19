@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm 🅙🅔🅓🅝🅐🅩</h1>
 <h3 align="center">I a'm nothing...</h3>
-<h5 align="center">My old account was banned.</h5>
+<h5 align="center">My old account was suspended.</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LoneStamp&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoneStamp" alt="github" /></a> </p>
