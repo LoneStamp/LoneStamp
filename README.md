@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoneStamp" alt="github" /></a> </p>
 
 <!--
-- 🔭 ꧁༺ 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷 ༻꧂ [BlackVideo](https://www.facebook.co), [BlackMusic](https://www.facebook.co), and [BlackGallery](https://www.facebook.co)
+- 🔭 ꧁༺ 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷: [BlackVideo](https://www.facebook.co), [BlackMusic](https://www.facebook.co), and [BlackGallery](https://www.facebook.co) ༻꧂ 
 
 - 🌱  ꧁༺ 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰 ༻꧂ **courses**
 
