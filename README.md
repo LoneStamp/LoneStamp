@@ -1,7 +1,8 @@
 # ██▓▒­░⡷⠂𝚄𝚂𝙴𝚁 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽⠐⢾░▒▓██
 
+<!--
 <h1 align="center">Hi 👋, I'm 🅙🅔🅓🅝🅐🅩</h1>
-<h3 align="center">I a'm nothing...</h3>
+<h3 align="center">I a'm... </h3>
 <h5 align="center">My old account was suspended.</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LoneStamp&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
 
@@ -28,7 +29,7 @@
 
 - ⚡ ꧁༺ 𝓕𝓾𝓷 𝓯𝓪𝓬𝓽 ༻꧂ **I think Im Funny**
 -->
-
+<!--
 <p align="left" style="font-size: 14px; color: #db0000; margin-top: 20px;">
     <a href="" style="text-decoration: none; color: #007bff; font-weight: bold;">
         ↓ 👋 ꧁ॐ卐✞ ʜɪ, ɪ’ᴍ ᴜɴᴋɴᴏᴡɴ ✞卐ॐ꧂ ↓
@@ -125,8 +126,8 @@
 |<img src="https://scontent.fceb8-1.fna.fbcdn.net/v/t1.6435-9/117403280_156899686048136_4937829030358585910_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEivnu6d1kBiCicy0JZrmwFnQ8x3NpKkN-dDzHc2kqQ308keXolLeCAaUPtH9spLQ8mTulkX0L1pkac9ovoEkB9&_nc_ohc=iclZzXSMNOgQ7kNvgHEjBBO&_nc_ht=scontent.fceb8-1.fna&oh=00_AYC8Um0_sx51_jX9kPdxvWlr0U7tVbl9R_pfa-7Fo0ZRBQ&oe=67176C76" width="200px" height="300px"/>|<img src="https://scontent.fceb8-1.fna.fbcdn.net/v/t39.30808-6/348932313_146681888403445_232851981092437453_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGa4bz9j6z8-fhsf4nFFIlcXHF6QFB7oYZccXpAUHuhhiij4ERpQuT32r3u_ncUUZjDSftkosWDWSELJw_X1Qfo&_nc_ohc=7h_LMrdF0fMQ7kNvgF3hDiJ&_nc_zt=23&_nc_ht=scontent.fceb8-1.fna&_nc_gid=AINvYUp5sTkxuypjsh92E6q&oh=00_AYCcwc_cz3VE1FFc1-qfhuvNWwfSQHoyNXxjLpxOMSxpyA&oe=66F5F924" width="200px" height="300px"/>|<img src="https://scontent.fceb8-1.fna.fbcdn.net/v/t39.30808-6/295772390_594920815579352_7827384068175478686_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeGxYZ4-gxS-Ryi1ChMYNem1lLT4hrMNCdGUtPiGsw0J0a3VbVlINoEN9Mwk9mYoeitznE-VFlh8aADdid_7pFqV&_nc_ohc=JvOnLmsckOoQ7kNvgHALuZg&_nc_zt=23&_nc_ht=scontent.fceb8-1.fna&oh=00_AYAlPjSTFcYTmcTaPeDew6QcxjrXStHLrWgJPZViWsGzMw&oe=66F5D9DC" width="200px" height="300px"/>|<img src="https://scontent.fceb8-1.fna.fbcdn.net/v/t39.30808-6/261342994_448371753567593_8282714604939645886_n.jpg?stp=dst-jpg_p526x296&_nc_cat=111&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeH-reM9l92z3xn8AqQoCQ6JRjaiXKtAEvxGNqJcq0AS_Gn8CVu-dm8QBmIKKtsDLpiVmyA084bNCFWUtuzODK6Y&_nc_ohc=JPEyNuFjL-IQ7kNvgFH4DNJ&_nc_zt=23&_nc_ht=scontent.fceb8-1.fna&_nc_gid=Axzq8I7MVSDNQlZuOs0wCr5&oh=00_AYDAzmm6WhzyU9IQIP4261lQmj2Xc2bbWfnAGyztqxGrGQ&oe=66F600D6" width="200px" height="300px"/>|
 |<img src="https://scontent.fceb8-1.fna.fbcdn.net/v/t39.30808-6/217563123_347449686993134_8043274004964612208_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGuvL2D_4jcNhBH8xxGcwRllH9yHQUccSCUf3IdBRxxIIBa9BIzRkDZQkcBSz79uv4Lm5gh-47fTE-6u-ExJNq0&_nc_ohc=Az54xp7fG7sQ7kNvgHtl3VD&_nc_zt=23&_nc_ht=scontent.fceb8-1.fna&oh=00_AYAxE4Yr_N5gjkSFiI0kGKeDhIjwxOsAkaSzJt8G6IXcgw&oe=66F5D748" width="200px" height="300px"/>|<img src="https://scontent.fceb8-1.fna.fbcdn.net/v/t1.6435-9/174038647_289857519419018_6777055575180394844_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHelB0fqzrw3lMYHCoIY0mqVTu1xNNBqEJVO7XE00GoQoIcjDvGXZhdnMqXprwCV_fhvrIqOhZg8sBnX-uuTCiz&_nc_ohc=px8rCXGMS6AQ7kNvgHSvqJ6&_nc_ht=scontent.fceb8-1.fna&_nc_gid=AlzBo6_fpbX-o-41nPfljg5&oh=00_AYAjg9A_8VyKWe9Yok91N7MiSyDIx9q7kD1tpv-_Y0bGCw&oe=67179878" width="200px" height="300px"/>|<img src="https://scontent.fceb8-1.fna.fbcdn.net/v/t1.6435-9/141159274_234740661597371_7959378151445482606_n.jpg?stp=dst-jpg_p526x296&_nc_cat=101&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeFV6fgASTHkJfr3qS6Acp5qZYAxYmxvcsZlgDFibG9yxvtt1hOqS3eDay5jAsIv2KAmmnYGyMOwBhnA62v-mpLd&_nc_ohc=TqE4KfylBVMQ7kNvgFA9Ymc&_nc_ht=scontent.fceb8-1.fna&_nc_gid=Alnt_d1h6TV6rZ_3W9NVhLU&oh=00_AYCLb4AWKJbKGOtzP4PeJyfMVS5XeI6aT1_-6YCmECg0vA&oe=67177817" width="200px" height="300px"/>|<img src="https://scontent.fceb8-1.fna.fbcdn.net/v/t1.6435-9/126494551_194526402285464_972079242273228735_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeE9QzcBAJc20-3AOOJnuU-YoaKjTREIeRChoqNNEQh5EPw3CX8-R2G6oulDZJjRmrzy0YVlg0s6t-5O78wyr_bT&_nc_ohc=8wdSKsjJPkoQ7kNvgGRJtM7&_nc_ht=scontent.fceb8-1.fna&oh=00_AYDxwHCoWATtKVP0jKUVAaPg5zILY-vtXTA-RsyRXhjQ0Q&oe=6717A075" width="200px" height="300px"/>|
 |<img src="https://scontent.fceb8-1.fna.fbcdn.net/v/t1.6435-9/123625188_184693809935390_8721636366179324354_n.jpg?_nc_cat=102&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeEhDFnEyHfRbaLZTgBWoCWV7ATHLUfO1arsBMctR87VqmTRStNXStVK_QcsgjGNsSLaGQmNwRtO1F5dEARG1VFU&_nc_ohc=_QwkZv3YDx8Q7kNvgFuc6LK&_nc_ht=scontent.fceb8-1.fna&_nc_gid=A6TIS2GCumMIFqdGWprgQeQ&oh=00_AYBTQ37-RkfPVwICR0W9ohnSA5EaV0yjjNapL3RpGXg5PQ&oe=67176EBE" width="200px" height="300px"/>|<img src="https://scontent.fceb8-1.fna.fbcdn.net/v/t1.6435-9/122240806_180802283657876_4552633342209845916_n.jpg?_nc_cat=100&ccb=1-7&_nc_sid=127cfc&_nc_eui2=AeEEUBDcIMDRX0GJypiuTWXiQNuXzWNjNpBA25fNY2M2kLArYKoWNTlGs3kln-6_tquCgXsQeI5ewnjBryqDEhGx&_nc_ohc=hOujRc6CFeYQ7kNvgHyeA7_&_nc_ht=scontent.fceb8-1.fna&_nc_gid=APx7rnI5kitIcXf_z9E-nK6&oh=00_AYCkRsyJdw24aCEqODc9enNfbpHPbLRj7y7a94Yz7CMAcg&oe=67179F3F" width="200px" height="300px"/>|<img src="https://scontent.fceb8-1.fna.fbcdn.net/v/t1.6435-9/120974792_176138787457559_5672867091856616300_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeHa72uPmS6HG1iY-UDo-fK-k2yoYUXmddGTbKhhReZ10ZhaIEgPrZR-dMlwi9cK3hvDn8ScXcSA15suRxSHFEHp&_nc_ohc=OouvqBA-PC8Q7kNvgEQqbfQ&_nc_ht=scontent.fceb8-1.fna&_nc_gid=AlEUwfWk5IPe6c9UNGkVoTO&oh=00_AYAxZkxVsr8n6NsQMVzKylsgCagrFo6NFPrDEv9fwtSV4g&oe=671779D7" width="200px" height="300px"/>|<img src="https://scontent.fceb8-1.fna.fbcdn.net/v/t1.6435-9/119525369_168831848188253_5028487620836780049_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=833d8c&_nc_eui2=AeGtVF0OhdVWnbbcftKByyroMX2Lw0Ztgt4xfYvDRm2C3mAoAOHilQjAlg5TvvnXThLhCiO5-YG7386Mvqqs3mxt&_nc_ohc=hsAHG3XTGlUQ7kNvgHWvDDH&_nc_ht=scontent.fceb8-1.fna&_nc_gid=ALBFep4nBKlWigQe4Gr1rch&oh=00_AYCynIZ-5pU96npTxub6VTZiSdZIGkf2KIvuLolS6Nf_bQ&oe=6717A118" width="200px" height="300px"/>|
-
-
+-->
+<!--
 # My Daily Routine Schedule
 
 | Time               | Activity                                       |
@@ -191,7 +192,7 @@
 |----------|----------|----------|----------|
 | ![Image 13](link_to_image_13) | ![Image 14](link_to_image_14) | ![Image 15](link_to_image_15) | ![Image 16](link_to_image_16) |
 | Description of Image 13 | Description of Image 14 | Description of Image 15 | Description of Image 16 |
-
+-->
 
 ## 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
 
@@ -203,7 +204,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/LoneStamp/github-readme-quotes)
 
 [![Readme Riddle](https://github-readme-riddle.vercel.app/api?type=horizontal&theme=dark)](https://github.com/LoneStamp/github-readme-riddle)
-
+<!--
 ## 🅱🅸🅾🅳🅰🆃🅰
 
 ### 𝐏𝐫𝐢𝐦𝐚𝐫𝐲
@@ -343,7 +344,7 @@
 | Previous Job Title 1     | Company Name 1       | Location 1        | Years 1        | Responsibilities 1                    |
 | Previous Job Title 2     | Company Name 2       | Location 2        | Years 2        | Responsibilities 2                    |
 | Previous Job Title 3     | Company Name 3       | Location 3        | Years 3        | Responsibilities 3                    |
-
+-->
 #### 🅿🆁🅾🅶🆁🅰🅼🅼🅸🅽🅶 🅻🅰🅽🅶🆄🅰🅶🅴 🆂🅺🅸🅻🅻🆂
 
 | 👨‍💻 **Programming Language** | 💡 **Level**    |
