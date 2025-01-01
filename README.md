@@ -1,8 +1,6 @@
 # ██▓▒­░⡷⠂𝚄𝚂𝙴𝚁 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽⠐⢾░▒▓██
-<h5 align="left">My old account was suspended.</h5>
-<!--
+
 <h1 align="center">Hi 👋, I'm 🅙🅔🅓🅝🅐🅩</h1>
-<h3 align="center">I a'm... </h3>
 <h5 align="center">My old account was suspended.</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LoneStamp&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
 
@@ -29,7 +27,6 @@
 
 - ⚡ ꧁༺ 𝓕𝓾𝓷 𝓯𝓪𝓬𝓽 ༻꧂ **I think Im Funny**
 -->
-<!--
 <p align="left" style="font-size: 14px; color: #db0000; margin-top: 20px;">
     <a href="" style="text-decoration: none; color: #007bff; font-weight: bold;">
         ↓ 👋 ꧁ॐ卐✞ ʜɪ, ɪ’ᴍ ᴜɴᴋɴᴏᴡɴ ✞卐ॐ꧂ ↓
