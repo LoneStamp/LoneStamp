@@ -4,6 +4,10 @@
 <h5 align="center">My old account was suspended.</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LoneStamp&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
 
+# Other Accounts:
+- <a href="https://codeberg.org/jednaz_lonestamp">CodeBerg</a>
+- <a href="https://bitbucket.org/lonestamp">Bitbucket</a>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoneStamp" alt="github" /></a> </p>
 
 <!--
