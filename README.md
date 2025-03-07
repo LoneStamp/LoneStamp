@@ -197,7 +197,9 @@
 | ![Image 13](link_to_image_13) | ![Image 14](link_to_image_14) | ![Image 15](link_to_image_15) | ![Image 16](link_to_image_16) |
 | Description of Image 13 | Description of Image 14 | Description of Image 15 | Description of Image 16 |
 -->
-
+<br />
+<img alt="Profile Information" width="100%" height="100%" src="https://github.com/LoneStamp/LoneStamp/blob/main/version/ver1.0.2/Version1.0.2.png"/>
+<br />
 ## 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
 
 | <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoneStamp&langs_count=30" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LoneStamp&show_icons=true&locale=en" alt="github" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LoneStamp&" alt="github" /></p> |
