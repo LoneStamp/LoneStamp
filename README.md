@@ -200,7 +200,7 @@
 <br />
 <img alt="Profile Information" width="100%" height="100%" src="https://github.com/LoneStamp/LoneStamp/blob/main/version/ver1.0.2/Version1.0.2.png"/>
 <br />
-## 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂
+<!--## 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂-->
 
 | <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoneStamp&langs_count=30" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LoneStamp&show_icons=true&locale=en" alt="github" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LoneStamp&" alt="github" /></p> |
 |---------------------------------|---------------------------------|---------------------------------|
