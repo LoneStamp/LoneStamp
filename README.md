@@ -1,15 +1,17 @@
-# ██▓▒­░⡷⠂𝚄𝚂𝙴𝚁 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽⠐⢾░▒▓██
+<!--# ██▓▒­░⡷⠂𝚄𝚂𝙴𝚁 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽⠐⢾░▒▓██
 
-<!--<h1 align="center">Hi 👋, I'm 🅙🅔🅓🅝🅐🅩</h1>-->
+<h1 align="center">Hi 👋, I'm 🅙🅔🅓🅝🅐🅩</h1>
 <h5 align="center">My old account was suspended.</h5>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LoneStamp&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
-
+-->
 # Other Accounts:
 - <a href="https://codeberg.org/jednaz_lonestamp">CodeBerg</a>
 - <a href="https://bitbucket.org/lonestamp">Bitbucket</a>
 - <a href="https://sourceforge.net/u/lonestamp99/profile">SourceForge</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoneStamp" alt="github" /></a> </p>
+
+
 
 <!--
 - 🔭 ꧁༺ 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷:༻꧂ 
@@ -31,7 +33,7 @@
 - 📄 ꧁༺ 𝓚𝓷𝓸𝔀 𝓪𝓫𝓸𝓾𝓽 𝓶𝔂 𝓮𝔁𝓹𝓮𝓻𝓲𝓮𝓷𝓬𝓮𝓼 ༻꧂ 
 
 - ⚡ ꧁༺ 𝓕𝓾𝓷 𝓯𝓪𝓬𝓽 ༻꧂ **I think Im Funny**
--->
+
 <p align="left" style="font-size: 14px; color: #db0000; margin-top: 20px;">
     <a href="" style="text-decoration: none; color: #007bff; font-weight: bold;">
         ↓ 👋 ꧁ॐ卐✞ ʜɪ, ɪ’ᴍ ᴜɴᴋɴᴏᴡɴ ✞卐ॐ꧂ ↓
@@ -202,6 +204,7 @@
 |---------------------------------|---------------------------------|---------------------------------|
 
 [![LoneStamp's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@LoneStamp99)](https://github.com/LoneStamp/github-readme-stats)
+<!--
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/LoneStamp/github-readme-quotes)
 
@@ -346,7 +349,7 @@
 | Previous Job Title 1     | Company Name 1       | Location 1        | Years 1        | Responsibilities 1                    |
 | Previous Job Title 2     | Company Name 2       | Location 2        | Years 2        | Responsibilities 2                    |
 | Previous Job Title 3     | Company Name 3       | Location 3        | Years 3        | Responsibilities 3                    |
--->
+
 #### 🅿🆁🅾🅶🆁🅰🅼🅼🅸🅽🅶 🅻🅰🅽🅶🆄🅰🅶🅴 🆂🅺🅸🅻🅻🆂
 
 | 👨‍💻 **Programming Language** | 💡 **Level**    |
@@ -623,7 +626,7 @@
 | Devian Art |<img src="https://github.com/LoneStamp99/LoneStamp99/assets/93658802/bee87161-78a8-4c14-8eb2-20ad5415ec43" alt="IRC-Galleria" width="40" height="40"> [@your_deviant art_handle](https://www.deviantart.com/)|
 | VK         |<img src="https://github.com/LoneStamp99/LoneStamp99/assets/93658802/b5ec3bc0-87e8-41a9-b327-ab2db11e5f45" alt="VKontakte" width="40" height="40"> [@your_vk_handle](https://vk.com/)|
 <div id="readme-bot"></div>
-
+-->
 
 ![Visitor Count](https://profile-counter.glitch.me/{LoneStamp}/count.svg)
 <!---
