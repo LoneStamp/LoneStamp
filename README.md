@@ -1,16 +1,18 @@
 <!--# ██▓▒­░⡷⠂𝚄𝚂𝙴𝚁 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽⠐⢾░▒▓██
 
 <h1 align="center">Hi 👋, I'm 🅙🅔🅓🅝🅐🅩</h1>
+
+
 <h5 align="center">My old account was suspended.</h5>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LoneStamp&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LoneStamp&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
+
 # Other Accounts:
 - <a href="https://codeberg.org/jednaz_lonestamp">CodeBerg</a>
 - <a href="https://bitbucket.org/lonestamp">Bitbucket</a>
 - <a href="https://sourceforge.net/u/lonestamp99/profile">SourceForge</a>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoneStamp" alt="github" /></a> </p>
-
 
 
 <!--
