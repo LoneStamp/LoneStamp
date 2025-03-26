@@ -13,7 +13,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoneStamp" alt="github" /></a> </p>
 
-
+## 🅸'🅼 🅻🅸🆂🆃🅴🅽🅸🅽🅶 🆃🅷🅸🆂 🅼🆄🆂🅸🅲
+|         |         |         |
+| ------- | ------- | ------- |
+| <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=ffff00)](https://github.com/kittinan/spotify-github-profile)"> | <img src="https://spotify-github-profile.vercel.app/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=f7090f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"> | <img src="https://spotify-github-profile.vercel.app/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=f3e20c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"> |
 <!--
 - 🔭 ꧁༺ 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷:༻꧂ 
 
@@ -91,11 +94,6 @@
     </a>
 </p>
 
-
-## 🅸'🅼 🅻🅸🆂🆃🅴🅽🅸🅽🅶 🆃🅷🅸🆂 🅼🆄🆂🅸🅲
-|         |         |         |
-| ------- | ------- | ------- |
-| <img src="https://spotify-github-profile.vercel.app/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=0ef1be)](https://github.com/kittinan/spotify-github-profile)"> | <img src="https://spotify-github-profile.vercel.app/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=f7090f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"> | <img src="https://spotify-github-profile.vercel.app/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=f3e20c&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)"> |
 
 ## 🅶🅰🅻🅻🅴🆁🅸🅴🆂
 
