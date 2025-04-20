@@ -10,6 +10,8 @@
 - <a href="https://codeberg.org/jednaz_lonestamp">CodeBerg</a>
 - <a href="https://bitbucket.org/lonestamp">Bitbucket</a>
 - <a href="https://sourceforge.net/u/lonestamp99/profile">SourceForge</a>
+- <a href="">Facebook</a>
+- <a href="">Vkontakte</a> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoneStamp" alt="github" /></a> </p>
 
