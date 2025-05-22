@@ -6,7 +6,7 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LoneStamp&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
 
-# Other Accounts:
+# Other Accounts
 - <a href="https://codeberg.org/jednaz_lonestamp">CodeBerg</a>
 - <a href="https://bitbucket.org/lonestamp">Bitbucket</a>
 - <a href="https://sourceforge.net/u/lonestamp99/profile">SourceForge</a>
