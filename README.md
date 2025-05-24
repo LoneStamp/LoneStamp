@@ -213,7 +213,7 @@
 <br />
 <!--## 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂-->
 
-| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoneStamp&langs_count=30" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LoneStamp&show_icons=true&locale=en" alt="github" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LoneStamp&" alt="github" /></p> |
+| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoneStamp&langs_count=30_layout=compact" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LoneStamp&show_icons=true&locale=en" alt="github" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LoneStamp&" alt="github" /></p> |
 |---------------------------------|---------------------------------|---------------------------------|
 
 [![LoneStamp's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@LoneStamp99)](https://github.com/LoneStamp/github-readme-stats)
