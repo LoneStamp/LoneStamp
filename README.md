@@ -17,6 +17,12 @@
 - <a href="">Yappy</a>
 - <a href="">Instagram</a>
 
+# Interests
+
+- 🤖 Mechatronics Engineering  
+- ⚛️ Physics  
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoneStamp" alt="github" /></a> </p>
 
 ## 🅸'🅼 🅻🅸🆂🆃🅴🅽🅸🅽🅶 🆃🅷🅸🆂 🅼🆄🆂🅸🅲
