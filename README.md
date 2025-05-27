@@ -22,6 +22,22 @@
 - 🤖 Mechatronics Engineering  
 - ⚛️ Physics  
 
+## 🕒 9-Years
+
+```mermaid
+timeline
+    title My Tech Journey (2017–2025)
+
+    2017 : Started modding Android games & apps using MT Manager, Hex Editor (no coding background)
+    2018 : Continued successful mods (unlimited coins, custom icons, strings); discovered passion
+    2019 : Decided to pursue Ethical Hacking; struggled with advanced concepts
+    2020 : Pivoted to Web Dev basics — learned HTML, CSS, JS (FreeCodeCamp, W3Schools, etc.)
+    2021 : Installed Kali Linux, Parrot OS, Athena OS; explored Linux systems & tools
+    2022 : Practiced ethical hacking using Metasploit, Nmap, Burp Suite, etc.
+    2023 : Shifted interest toward application development & cross-platform tools
+    2024 : Built embedded & AI-integrated apps; merged dev & security knowledge
+    2025 : Active in ethical hacking & secure development; 9 years of experience achieved
+```
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoneStamp" alt="github" /></a> </p>
 
