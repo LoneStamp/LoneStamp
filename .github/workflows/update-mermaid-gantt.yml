@@ -1,0 +1,41 @@
+name: Update Mermaid Gantt Year
+
+on:
+  schedule:
+    - cron: '0 0 1 1 *'  # Run yearly on Jan 1st at 00:00 UTC
+  workflow_dispatch:      # Allow manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Setup Git
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Update Mermaid Gantt chart
+        run: |
+          FILE="README.md"
+          CURRENT_YEAR=$(date +'%Y')
+          NEXT_YEAR=$((CURRENT_YEAR + 1))
+
+          # Check if year is already added
+          if grep -q "$NEXT_YEAR" "$FILE"; then
+            echo "Year $NEXT_YEAR already exists. No update needed."
+            exit 0
+          fi
+
+          # Update title range (e.g., 2017–2025 to 2017–2026)
+          sed -i "s/🕒 .*–$CURRENT_YEAR/🕒 9-Year Journey (2017–$NEXT_YEAR)/" "$FILE"
+
+          # Add new year entry in mermaid
+          sed -i "/section Years/a\    $NEXT_YEAR       :milestone, start$((NEXT_YEAR - 2016)), $NEXT_YEAR-01-01, 1d" "$FILE"
+
+          # Commit and push
+          git add "$FILE"
+          git commit -m "Add $NEXT_YEAR to Mermaid Gantt"
+          git push
