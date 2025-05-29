@@ -20,7 +20,8 @@
 # Interests
 
 - 🤖 Mechatronics Engineering  
-- ⚛️ Physics  
+- ⚛️ Physics
+- 🖥️ Cyber Security  
 
 ## 🕒 9-Year Journey (2017–2025)
 
