@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm 🅙🅔🅓🅝🅐🅩</h1>
 -->
-<h5 align="center">My old account was suspended.</h5>
+<h5 align="center">My 9 years old account was suspended.</h5>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LoneStamp&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
 
