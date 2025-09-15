@@ -664,4 +664,4 @@ gantt
 LoneStamp/LoneStamp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![](https://hit.yhype.me/github/profile?account_id=170086549)
+<img src="https://hit.yhype.me/github/profile?account_id=170086549"/>
