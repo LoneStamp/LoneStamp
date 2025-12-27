@@ -2,10 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm 🅙🅔🅓🅝🅐🅩</h1>
 -->
-[![committers.top badge](https://user-badge.committers.top/russia/LoneStamp.svg)](https://user-badge.committers.top/russia/LoneStamp)
+
 <h5 align="center">My 9 years old account was suspended.</h5>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=LoneStamp&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
+
+[![committers.top badge](https://user-badge.committers.top/russia/LoneStamp.svg)](https://user-badge.committers.top/russia/LoneStamp)
 
 # Other Accounts
 - <a href="https://codeberg.org/jednaz_lonestamp">CodeBerg</a>
