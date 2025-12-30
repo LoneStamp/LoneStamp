@@ -24,7 +24,8 @@
 
 - 🤖 Mechatronics Engineering  
 - ⚛️ Physics
-- 🖥️ Cyber Security  
+- 🖥️ Cyber Security
+- 👨🏻‍💻 Learning [Ada](https://learn.adacore.com/) 
 
 ## 🕒 9-Year Journey (2017–2025)
 
