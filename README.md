@@ -9,6 +9,8 @@
 
 [![committers.top badge](https://user-badge.committers.top/russia/LoneStamp.svg)](https://user-badge.committers.top/russia/LoneStamp)
 
+[![committers.top badge](https://user-badge.committers.top/bosnia_and_herzegovina/LoneStamp.svg)](https://user-badge.committers.top/bosnia_and_herzegovina/LoneStamp)
+
 # Other Accounts
 - <a href="https://codeberg.org/jednaz_lonestamp">CodeBerg</a>
 - <a href="https://bitbucket.org/lonestamp">Bitbucket</a>
