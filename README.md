@@ -1,35 +1,149 @@
-<!--# ██▓▒­░⡷⠂𝚄𝚂𝙴𝚁 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽⠐⢾░▒▓██
+<!--# ██▓▒­░⡷⠂𝚄𝚂𝙴𝚁 𝙸𝙽𝙵𝙾𝚁𝙼𝙰𝚃𝙸𝙾𝙽⠐⢾░▒▓██-->
 
-<h1 align="center">Hi 👋, I'm 🅙🅔🅓🅝🅐🅩</h1>
--->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=LoneStamp&label=Profile%20views&color=0e75b6&style=flat" 
+       alt="GitHub Profile Views" 
+       style="border-radius: 12px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);" />
+</p>
 
-<h5 align="center">My 9 years old account was suspended.</h5>
+<h1 align="center">Hi 👋, I'm АЛИБИНА</h1> <!--🅐🅛🅘🅑🅘🅝🅐 АЛИБИНА-->
+
+<h6 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#FF4C4C;">
+  My 9-year-old account was suspended
+</h6>
+
+<p align="center" style="font-size:16px; line-height:1.8; color:#333;">
+  Currently building <strong>BlackVideo</strong>, a next-generation video platform.
+</p>
+
+<p align="center" style="font-size:15px; line-height:1.6; color:#555;">
+  Excited developing advanced capabilities, including AI-driven integrations and <strong>OSINT</strong> tools, into everyday software.
+</p>
+
+<h2 align="center">🎓 Education</h2>
+
+<p align="center" style="font-size:16px; line-height:1.8; color:#333;">
+  Adyghe State University — B.S. in Cybersecurity, majoring in Cloud Security
+</p>
+
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LoneStamp&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
 
-[![committers.top badge](https://user-badge.committers.top/russia/LoneStamp.svg)](https://user-badge.committers.top/russia/LoneStamp)
+<h2 align="center">💻 Favorite Technologies</h2>
 
-[![committers.top badge](https://user-badge.committers.top/bosnia_and_herzegovina/LoneStamp.svg)](https://user-badge.committers.top/bosnia_and_herzegovina/LoneStamp)
+<h3 align="center">Languages</h3>
+<p align="center">
+  <!-- Ada -->
+  <a href="https://learn.adacore.com/" target="_blank" style="margin: 4px;">
+    <img src="https://img.shields.io/badge/Ada-%2312669C.svg?style=for-the-badge&logo=ada&logoColor=white" alt="Ada">
+  </a>
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank" style="margin: 4px;">
+    <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+  <!-- Julia -->
+  <a href="https://julialang.org/" target="_blank" style="margin: 4px;">
+    <img src="https://img.shields.io/badge/Julia-%230955B6.svg?style=for-the-badge&logo=julia&logoColor=white" alt="Julia">
+  </a>
+  <!-- Rust -->
+  <a href="https://www.rust-lang.org/" target="_blank" style="margin: 4px;">
+    <img src="https://img.shields.io/badge/Rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  </a>
+  <!-- TypeScript -->
+  <a href="https://www.typescriptlang.org/" target="_blank" style="margin: 4px;">
+    <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  </a>
+  <!-- React -->
+  <a href="https://reactjs.org/" target="_blank" style="margin: 4px;">
+    <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  </a>
+</p>
 
-# Other Accounts
-- <a href="https://codeberg.org/jednaz_lonestamp">CodeBerg</a>
-- <a href="https://bitbucket.org/lonestamp">Bitbucket</a>
-- <a href="https://sourceforge.net/u/lonestamp99/profile">SourceForge</a>
-- <a href="https://lablab.ai/u/@blackrose452">LabLab.AI</a>
-# Social Accounts
-- <a href="">Facebook</a>
-- <a href="">Vkontakte</a>
-- <a href="">Rossgram</a>
-- <a href="">Yappy</a>
-- <a href="">Instagram</a>
+<h3 align="center">Frameworks & Tools</h3>
+<p align="center">
+  <!-- Tauri -->
+  <a href="https://tauri.app/" target="_blank" style="margin: 4px;">
+    <img src="https://img.shields.io/badge/Tauri-%232C2E33.svg?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri">
+  </a>
+  <!-- Electron -->
+  <a href="https://www.electronjs.org/" target="_blank" style="margin: 4px;">
+    <img src="https://img.shields.io/badge/Electron-%2368A063.svg?style=for-the-badge&logo=electron&logoColor=white" alt="Electron">
+  </a>
+  <!-- Eel -->
+  <a href="https://github.com/samuelhwilliams/Eel" target="_blank" style="margin: 4px;">
+    <img src="https://img.shields.io/badge/Eel-Python-blue?style=for-the-badge" alt="Eel">
+  </a>
+  <!-- Next.js -->
+  <a href="https://nextjs.org/" target="_blank" style="margin: 4px;">
+    <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
+  </a>
+  <!-- Vite -->
+  <a href="https://vitejs.dev/" target="_blank" style="margin: 4px;">
+    <img src="https://img.shields.io/badge/Vite-%236646FF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite">
+  </a>
+  <!-- Vue.js -->
+  <a href="https://vuejs.org/" target="_blank" style="margin: 4px;">
+    <img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js">
+  </a>
+</p>
+<br/>
+<br/>
 
-# Interests
+<p align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#333; font-size:16px;">
+  Committer Badges
+</p>
 
-- 🤖 Mechatronics Engineering  
-- ⚛️ Physics
-- 🖥️ Cyber Security
-- 👨🏻‍💻 Learning [Ada](https://learn.adacore.com/) 
+<p align="center">
+  <img src="https://user-badge.committers.top/russia/LoneStamp.svg" alt="Russia Committer" style="margin: 0 8px;">
+  <img src="https://user-badge.committers.top/bosnia_and_herzegovina/LoneStamp.svg" alt="Bosnia Committer" style="margin: 0 8px;">
+</p>
 
+<p align="center">
+  <!-- Other Accounts -->
+  <a href="https://codeberg.org/jednaz_lonestamp">
+    <img src="https://img.shields.io/badge/CodeBerg-%2312100E.svg?style=for-the-badge&logo=codeberg&logoColor=white" alt="CodeBerg">
+  </a>
+  <a href="https://bitbucket.org/lonestamp">
+    <img src="https://img.shields.io/badge/Bitbucket-%23007ACC.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket">
+  </a>
+  <a href="https://sourceforge.net/u/lonestamp99/profile">
+    <img src="https://img.shields.io/badge/SourceForge-%230099CC.svg?style=for-the-badge&logo=sourceforge&logoColor=white" alt="SourceForge">
+  </a>
+  <a href="https://lablab.ai/u/@blackrose452">
+    <img src="https://img.shields.io/badge/LabLab.AI-%23FF0080.svg?style=for-the-badge&logo=lablab&logoColor=white" alt="LabLab.AI">
+  </a>
+</p>
+
+<p align="center">
+  <!-- Social Accounts -->
+  <a href="https://facebook.com/yourusername">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+  <a href="https://vk.com/yourusername">
+    <img src="https://img.shields.io/badge/VKontakte-%23005487.svg?style=for-the-badge&logo=vkontakte&logoColor=white" alt="VKontakte">
+  </a>
+  <a href="https://rossgram.com/yourusername">
+    <img src="https://img.shields.io/badge/Rossgram-%23FF0000.svg?style=for-the-badge&logo=rossgram&logoColor=white" alt="Rossgram">
+  </a>
+  <a href="https://yappy.com/yourusername">
+    <img src="https://img.shields.io/badge/Yappy-%23FFAA00.svg?style=for-the-badge&logo=yappy&logoColor=white" alt="Yappy">
+  </a>
+  <a href="https://instagram.com/yourusername">
+    <img src="https://img.shields.io/badge/Instagram-%23E1306C.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+<h2 align="center">Interests</h2>
+
+<div align="center" style="font-size:16px; line-height:1.8; color:#333;">
+
+<h3>🤖 Mechatronics Engineering</h3>  
+⚛️ Physics  
+🖥️ Cyber Security  
+👨🏻‍💻 Learning <a href="https://learn.adacore.com/" target="_blank">Ada</a>  
+
+</div>
+
+<!--
 ## 🕒 9-Year Journey (2017–2025)
 
 ```mermaid
@@ -47,13 +161,25 @@ gantt
     2024       :active, start8, 2024-01-01, 365d
     2025       :milestone, start9, 2025-01-01, 1d
 ```
+-->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=LoneStamp" alt="github" /></a> </p>
+<br>
 
-## 🅸'🅼 🅻🅸🆂🆃🅴🅽🅸🅽🅶 🆃🅷🅸🆂 🅼🆄🆂🅸🅲
+<p align="center">
+  <a href="https://github.com/LoneStamp/github-profile-trophy" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=LoneStamp-ma&theme=onedark" alt="GitHub Trophies" />
+  </a>
+</p>
+
+<h2 align="center">I'm listening this music</h2>
+
 |         |         |         |
 | ------- | ------- | ------- |
 | <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=ffff00)](https://github.com/kittinan/spotify-github-profile)"> | <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)"> | <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31r4zns2ctyqdyzmg4m6enjsyuva&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)"> |
+
+
+
+
 <!--
 - 🔭 ꧁༺ 𝓘’𝓶 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝔀𝓸𝓻𝓴𝓲𝓷𝓰 𝓸𝓷:༻꧂ 
 
@@ -234,12 +360,69 @@ gantt
 | Description of Image 13 | Description of Image 14 | Description of Image 15 | Description of Image 16 |
 -->
 <br />
+<!--
+<p align="center">
 <img alt="Profile Information" width="100%" height="100%" src="https://github.com/LoneStamp/LoneStamp/blob/main/version/ver1.0.2/Version1.0.2.png"/>
+</p>
+-->
+
+<h2 align="center">💻 Projects</h2>
+
+<h3 align="center">Currents</h3>
+
+<div align="center">
+
+<a href="https://github.com/BlackBlazent/BlackVideo" target="_blank">
+  <img src="https://img.shields.io/badge/BlackVideo-Active-brightgreen?style=for-the-badge" alt="BlackVideo Active">
+</a>
+<p align="center" style="max-width:700px; line-height:1.6; margin:6px 0;">
+  <strong>Next-gen video platform</strong>
+</p>
+
+<img src="https://img.shields.io/badge/BlackGallery-Paused-lightgrey?style=for-the-badge" alt="BlackGallery Paused">
+<p align="center" style="max-width:400px; line-height:1.6; margin:6px 0;">
+  <strong>Black Gallery</strong> — Amalgamated Luminous Library Expo Recreation Yearnability. A comprehensive and innovative gallery app.
+</p>
+
+<img src="https://img.shields.io/badge/BlackMusic-Paused-lightgrey?style=for-the-badge" alt="BlackMusic Paused">
+<p align="center" style="max-width:400px; line-height:1.6; margin:6px 0;">
+  <strong>BlackMusic</strong> — A music player delivering an unparalleled audio experience, integrating a vast catalog with superior playback.
+</p>
+
+<img src="https://img.shields.io/badge/BlackDevForge-Paused-lightgrey?style=for-the-badge" alt="BlackDevForge Paused">
+<p align="center" style="max-width:400px; line-height:1.6; margin:6px 0;">
+  <strong>BlackDevForge</strong> — Cross-platform AI agent inside your app; understands your codebase, identifies bugs, improves UI, and evolves your project automatically.
+</p>
+
+</div>
+
+---
+
+<h3 align="center">Proprietary / Legacy Projects</h3>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cyberlaw-Legacy-blue?style=for-the-badge" alt="Cyberlaw Legacy">
+<p align="center" style="max-width:700px; line-height:1.6; margin:6px 0;">
+  <strong>Cyberlaw</strong> — A martial law system in cyberspace.
+</p>
+
+<img src="https://img.shields.io/badge/J.E.D.N.A.Z-Legacy-blue?style=for-the-badge" alt="J.E.D.N.A.Z Legacy">
+<p align="center" style="max-width:400px; line-height:1.6; margin:6px 0;">
+  <strong>J.E.D.N.A.Z</strong> — Advanced AI super assistant by Jednaz Lonestamp; his digital clone merging intelligence, identity, and innovation.
+</p>
+
+<img src="https://img.shields.io/badge/KENDRAH_RA1018-Legacy-blue?style=for-the-badge" alt="KENDRAH RA1018 Legacy">
+<p align="center" style="max-width:400px; line-height:1.6; margin:6px 0;">
+  <strong>K.E.N.D.R.A.H-RA1018</strong> — Arsenal’ly super intelligent system.
+</p>
+
+</div>
 <br />
 <!--## 🅶🅸🆃🅷🆄🅱 🆂🆃🅰🆃🆂-->
 
-| <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoneStamp&langs_count=30" /></p> | <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=LoneStamp&show_icons=true&locale=en" alt="github" /></p> | <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=LoneStamp&" alt="github" /></p> |
-|---------------------------------|---------------------------------|---------------------------------|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LoneStamp&langs_count=30) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LoneStamp&show_icons=true&locale=en) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LoneStamp) |
+|:--------------------------------:|:--------------------------------:|:--------------------------------:|
 
 [![LoneStamp's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@LoneStamp99)](https://github.com/LoneStamp/github-readme-stats)
 <!--
