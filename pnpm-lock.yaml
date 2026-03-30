@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       convex:
-        specifier: ^1.32.0
-        version: 1.32.0
+        specifier: ^1.34.1
+        version: 1.34.1
       vue:
         specifier: ^3.5.24
         version: 3.5.27(typescript@5.9.3)
@@ -628,8 +628,8 @@ packages:
   confbox@0.2.4:
     resolution: {integrity: sha512-ysOGlgTFbN2/Y6Cg3Iye8YKulHw+R2fNXHrgSmXISQdMnomY6eNDprVdW9R5xBguEqI954+S6709UyiO7B+6OQ==}
 
-  convex@1.32.0:
-    resolution: {integrity: sha512-5FlajdLpW75pdLS+/CgGH5H6yeRuA+ru50AKJEYbJpmyILUS+7fdTvsdTaQ7ZFXMv0gE8mX4S+S3AtJ94k0mfw==}
+  convex@1.34.1:
+    resolution: {integrity: sha512-ooyFnZVVq0u6b5zt0Ptq8QB2ixhf/2vXe+PIcUtdtrs0lq/TwpkmmruHdqkFmWgMd6N+Tmfy8AGkz6QnZUYZBA==}
     engines: {node: '>=18.0.0', npm: '>=7.0.0'}
     hasBin: true
     peerDependencies:
@@ -1323,7 +1323,7 @@ snapshots:
 
   confbox@0.2.4: {}
 
-  convex@1.32.0:
+  convex@1.34.1:
     dependencies:
       esbuild: 0.27.0
       prettier: 3.8.1
