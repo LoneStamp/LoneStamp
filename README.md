@@ -95,6 +95,7 @@
 <p align="center">
   <img src="https://user-badge.committers.top/russia/LoneStamp.svg" alt="Russia Committer" style="margin: 0 8px;">
   <img src="https://user-badge.committers.top/bosnia_and_herzegovina/LoneStamp.svg" alt="Bosnia Committer" style="margin: 0 8px;">
+  <img src="https://org-badge.committers.top/russia/BlackBlazent.svg">
 </p>
 
 <p align="center">
