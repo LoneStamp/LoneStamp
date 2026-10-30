@@ -155,19 +155,26 @@ Arsenal'ly super intelligent system.
 -->
 
 <div align="center">
-
 <img src="https://github-readme-stats.vercel.app/api?username=LoneStamp&show_icons=true&theme=onedark&hide_border=true" alt="GitHub stats" height="165" />
+</div>
 
+<div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoneStamp&layout=compact&langs_count=8&theme=onedark&hide_border=true" alt="Most used languages on GitHub" height="165" />
+</div>
 
+<div align="center">
 <img src="https://streak-stats.demolab.com/?user=LoneStamp&theme=onedark&hide_border=true" alt="GitHub contribution streak" />
+</div>
 
+<div align="center">
 <a href="https://github.com/LoneStamp/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@LoneStamp99&layout=compact&theme=onedark&hide_border=true" alt="WakaTime coding activity" />
 </a>
 </div>
 
+<div align="center">
 <sub>Top languages reflects bytes of code on GitHub, not skill level.</sub>
+</div>
 
 &nbsp;
 
