@@ -85,11 +85,13 @@ A music player focused on playback quality and a large catalog. Active.
 
 A cross-platform AI agent meant to live inside your app, intended to understand your codebase, find bugs, and suggest UI improvements. Paused.
 
-### <img src="./public/general.svg" alt="" width="28" height="28" align="top" /> K.E.N.D.R.A.H
+### <img src="https://raw.githubusercontent.com/BCICDIS/kendrah/53f3de764e17ac9dca39dd54c712d44ba675ccd0/assets/kendrah-icon.svg" alt="" width="28" height="28" align="top" /> K.E.N.D.R.A.H
 
 <img src="./public/kendrah-language.svg" alt="K.E.N.D.R.A.H. A super language. New." width="100%" />
 
 A super language.
+
+[View on GitHub →](https://github.com/BCICDIS/kendrah.git)
 <!-- TODO: confirm the status, the owning organization, and add a repository link -->
 
 &nbsp;
@@ -151,17 +153,19 @@ Arsenal'ly super intelligent system.
   <img src="https://github-profile-trophy.vercel.app/?username=LoneStamp&theme=onedark" alt="GitHub trophies" />
 </a>
 -->
-<img src="https://github-readme-stats.vercel.app/api?username=LoneStamp&show_icons=true&theme=onedark&hide_border=true" alt="GitHub stats" height="165" />
 
 <div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=LoneStamp&show_icons=true&theme=onedark&hide_border=true" alt="GitHub stats" height="165" />
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LoneStamp&layout=compact&langs_count=8&theme=onedark&hide_border=true" alt="Most used languages on GitHub" height="165" />
-</div>
 
 <img src="https://streak-stats.demolab.com/?user=LoneStamp&theme=onedark&hide_border=true" alt="GitHub contribution streak" />
 
 <a href="https://github.com/LoneStamp/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@LoneStamp99&layout=compact&theme=onedark&hide_border=true" alt="WakaTime coding activity" />
 </a>
+</div>
 
 <sub>Top languages reflects bytes of code on GitHub, not skill level.</sub>
 
